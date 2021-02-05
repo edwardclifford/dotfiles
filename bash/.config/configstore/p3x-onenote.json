@@ -1,0 +1,12 @@
+{
+	"lang": "en-US",
+	"disable-hide": true,
+	"option-to-disable-internal-external-popup": false,
+	"allow-multiple": false,
+	"visible": true,
+	"webview-onenote": {
+		"url": "https://wpi0-my.sharepoint.com/personal/efclifford_wpi_edu/_layouts/15/onedrive.aspx?view=1",
+		"proxy": ""
+	},
+	"maximized": true
+}

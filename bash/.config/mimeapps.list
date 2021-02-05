@@ -1,0 +1,6 @@
+[Added Associations]
+text/plain=org.gnome.gedit.desktop;
+application/pdf=org.gnome.Evince.desktop;libreoffice-draw.desktop;
+
+[Default Applications]
+x-scheme-handler/eclipse+command x-scheme-handler/eclipse+mpc=_home_ted_Downloads_eclipse_.desktop

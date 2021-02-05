@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ted/Desktop/B_Term/Statistics/lab1" added="2020-10-31T01:09:22.982178Z" modified="2020-10-31T01:09:22.982182Z" visited="2020-10-31T01:09:22.982179Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2020-10-31T01:09:22.982180Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

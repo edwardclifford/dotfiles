@@ -1,0 +1,7 @@
+2020/09/04-08:37:06.141 f9e Reusing MANIFEST /home/ted/.config/p3x-onenote/IndexedDB/https_usc-onenote.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/04-08:37:06.142 f9e Recovering log #3
+2020/09/04-08:37:06.146 f9e Reusing old log /home/ted/.config/p3x-onenote/IndexedDB/https_usc-onenote.officeapps.live.com_0.indexeddb.leveldb/000003.log 
+2020/09/04-08:37:14.011 105a Level-0 table #5: started
+2020/09/04-08:37:14.020 105a Level-0 table #5: 22726 bytes OK
+2020/09/04-08:37:14.022 105a Delete type=0 #3
+2020/09/04-08:37:14.022 105a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

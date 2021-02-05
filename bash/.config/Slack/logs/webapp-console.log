@@ -1,0 +1,1179 @@
+[10/22/20, 21:02:46:674] info: 
+╔════════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.8.0, linux 5.8.16-2-MANJARO on x64 at 10/22/20, 21:02:46:674      ║
+╚════════════════════════════════════════════════════════════════════════════════╝ 
+[10/22/20, 21:02:46:674] info: Configured logger via 
+{
+  "identifierOverride": "webapp-console",
+  "logLevel": "info",
+  "numberOfInstances": 2
+}
+[10/22/20, 21:02:46:674] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.8.0",
+  "PACKAGE_MANIFEST.commit": "b075825",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[10/22/20, 21:02:46:674] warn: (electron) crashReporter.start is deprecated in the renderer process. Call it from the main process instead. 
+[10/22/20, 21:02:46:674] info: Creating desktop interface object 
+[10/22/20, 21:02:46:674] info: Exposing context bridge 
+[10/22/20, 21:02:46:674] warn: TELEMETRY You tried to get a team-specific telemeter but didn’t provide enough context and are getting the generic telemeter instead which is likely not what you want. 
+[10/22/20, 21:02:46:675] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "loaded"
+} 
+[10/22/20, 21:02:46:675] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 2,
+  "interval": 475
+} 
+[10/22/20, 21:02:46:675] info: Store: MAIN_WINDOW_SHOWN  
+[10/22/20, 21:02:46:675] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 448,
+      "y": 170,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[10/22/20, 21:02:46:675] info: Store: CLEAR_NOTIFICATIONS  
+[10/22/20, 21:02:46:677] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "type": "app",
+  "history": "[REDACTED]"
+} 
+[10/22/20, 21:02:46:843] info: Network status check {
+  "elapsed_time_ms": 50,
+  "navigator_online": true,
+  "api_test": "online"
+} 
+[10/22/20, 21:02:46:844] info: Store: SET_NETWORK_STATUS online 
+[10/22/20, 21:02:47:683] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 448,
+      "y": 198,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[10/22/20, 21:02:48:748] info: Store: QUIT_APP  
+[10/22/20, 21:02:48:748] info: Store: DOWNLOADS_CLEANED_UP  
+[10/28/20, 19:53:32:063] info: 
+╔════════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.8.0, linux 5.8.16-2-MANJARO on x64 at 10/28/20, 19:53:32:062      ║
+╚════════════════════════════════════════════════════════════════════════════════╝ 
+[10/28/20, 19:53:32:063] info: Configured logger via 
+{
+  "identifierOverride": "webapp-console",
+  "logLevel": "info",
+  "numberOfInstances": 3
+}
+[10/28/20, 19:53:32:063] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.8.0",
+  "PACKAGE_MANIFEST.commit": "b075825",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[10/28/20, 19:53:32:063] warn: (electron) crashReporter.start is deprecated in the renderer process. Call it from the main process instead. 
+[10/28/20, 19:53:32:063] info: Creating desktop interface object 
+[10/28/20, 19:53:32:063] info: Exposing context bridge 
+[10/28/20, 19:53:32:064] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "page-closed"
+} 
+[10/28/20, 19:53:32:064] info: Store: REMOVE_WEB_CONTENTS {
+  "id": 1
+} 
+[10/28/20, 19:53:32:064] warn: TELEMETRY You tried to get a team-specific telemeter but didn’t provide enough context and are getting the generic telemeter instead which is likely not what you want. 
+[10/28/20, 19:53:32:064] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 2,
+  "state": "loaded"
+} 
+[10/28/20, 19:53:32:064] info: Store: MAIN_WINDOW_SHOWN  
+[10/28/20, 19:53:32:064] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 448,
+      "y": 198,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[10/28/20, 19:53:32:064] info: Store: CLEAR_NOTIFICATIONS  
+[10/28/20, 19:53:32:068] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 2,
+  "type": "app",
+  "history": "[REDACTED]"
+} 
+[10/28/20, 19:53:32:237] info: Network status check {
+  "elapsed_time_ms": 49,
+  "navigator_online": true,
+  "api_test": "online"
+} 
+[10/28/20, 19:53:32:238] info: Store: SET_NETWORK_STATUS online 
+[10/28/20, 19:53:33:106] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 448,
+      "y": 226,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[10/28/20, 19:53:34:950] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 412,
+      "y": 165,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[10/28/20, 19:53:35:446] info: Store: QUIT_APP  
+[10/28/20, 19:53:35:447] info: Store: DOWNLOADS_CLEANED_UP  
+[12/17/20, 20:38:12:268] info: 
+╔════════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.8.0, linux 5.9.11-3-MANJARO on x64 at 12/17/20, 20:38:12:267      ║
+╚════════════════════════════════════════════════════════════════════════════════╝ 
+[12/17/20, 20:38:12:268] info: Configured logger via 
+{
+  "identifierOverride": "webapp-console",
+  "logLevel": "info",
+  "numberOfInstances": 2
+}
+[12/17/20, 20:38:12:268] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.8.0",
+  "PACKAGE_MANIFEST.commit": "b075825",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[12/17/20, 20:38:12:268] warn: (electron) crashReporter.start is deprecated in the renderer process. Call it from the main process instead. 
+[12/17/20, 20:38:12:268] info: Creating desktop interface object 
+[12/17/20, 20:38:12:268] info: Exposing context bridge 
+[12/17/20, 20:38:12:268] warn: TELEMETRY You tried to get a team-specific telemeter but didn’t provide enough context and are getting the generic telemeter instead which is likely not what you want. 
+[12/17/20, 20:38:12:269] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "loaded"
+} 
+[12/17/20, 20:38:12:269] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 2,
+  "interval": 910
+} 
+[12/17/20, 20:38:12:269] info: Store: MAIN_WINDOW_SHOWN  
+[12/17/20, 20:38:12:269] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 412,
+      "y": 165,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[12/17/20, 20:38:12:269] info: Store: CLEAR_NOTIFICATIONS  
+[12/17/20, 20:38:12:274] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "type": "app",
+  "history": "[REDACTED]"
+} 
+[12/17/20, 20:38:12:406] info: Network status check {
+  "elapsed_time_ms": 173,
+  "navigator_online": true,
+  "api_test": "online"
+} 
+[12/17/20, 20:38:12:407] info: Store: SET_NETWORK_STATUS online 
+[12/17/20, 20:38:13:317] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 412,
+      "y": 193,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[12/17/20, 20:38:27:937] info: Store: QUIT_APP  
+[12/17/20, 20:38:27:937] info: Store: DOWNLOADS_CLEANED_UP  
+[12/17/20, 22:31:19:294] info: 
+╔════════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.8.0, linux 5.9.11-3-MANJARO on x64 at 12/17/20, 22:31:19:294      ║
+╚════════════════════════════════════════════════════════════════════════════════╝ 
+[12/17/20, 22:31:19:294] info: Configured logger via 
+{
+  "identifierOverride": "webapp-console",
+  "logLevel": "info",
+  "numberOfInstances": 2
+}
+[12/17/20, 22:31:19:294] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.8.0",
+  "PACKAGE_MANIFEST.commit": "b075825",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[12/17/20, 22:31:19:295] warn: (electron) crashReporter.start is deprecated in the renderer process. Call it from the main process instead. 
+[12/17/20, 22:31:19:295] info: Creating desktop interface object 
+[12/17/20, 22:31:19:295] info: Exposing context bridge 
+[12/17/20, 22:31:19:295] warn: TELEMETRY You tried to get a team-specific telemeter but didn’t provide enough context and are getting the generic telemeter instead which is likely not what you want. 
+[12/17/20, 22:31:19:295] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "loaded"
+} 
+[12/17/20, 22:31:19:295] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 2,
+  "interval": 635
+} 
+[12/17/20, 22:31:19:295] info: Store: MAIN_WINDOW_SHOWN  
+[12/17/20, 22:31:19:295] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 412,
+      "y": 193,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[12/17/20, 22:31:19:295] info: Store: CLEAR_NOTIFICATIONS  
+[12/17/20, 22:31:19:297] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "type": "app",
+  "history": "[REDACTED]"
+} 
+[12/17/20, 22:31:19:520] info: Network status check {
+  "elapsed_time_ms": 141,
+  "navigator_online": true,
+  "api_test": "online"
+} 
+[12/17/20, 22:31:19:521] info: Store: SET_NETWORK_STATUS online 
+[12/17/20, 22:31:20:329] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 437,
+      "y": 222,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[12/17/20, 22:31:21:759] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 727,
+      "y": 309,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[12/17/20, 22:32:18:565] info: Store: UPDATE_SETTINGS {
+  "lastClogForProxyInfo": 1608262338563
+} 
+[12/17/20, 22:32:49:268] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[12/17/20, 22:32:59:269] info: Store: SET_SYSTEM_IDLE active 
+[12/17/20, 22:33:17:633] info: Store: HANDLE_DEEP_LINK {
+  "url": "slack://TJN97SEKH/magic-login/1608970461024-29f3bd817eefdaa1b828b0068fa40a400d94897bfa47a1ef0d0156afdfee35fb"
+} 
+[12/17/20, 22:33:17:634] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 2,
+  "state": "unloaded"
+} 
+[12/17/20, 22:33:17:861] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "history": "[REDACTED]"
+} 
+[12/17/20, 22:33:17:882] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 2,
+  "state": "loaded"
+} 
+[12/17/20, 22:33:17:894] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 2,
+  "type": "auth",
+  "history": "[REDACTED]"
+} 
+[12/17/20, 22:33:17:896] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 2,
+  "state": "page-closed"
+} 
+[12/17/20, 22:33:17:898] info: Store: REMOVE_WEB_CONTENTS {
+  "id": 2
+} 
+[12/17/20, 22:33:18:033] warn: (electron) crashReporter.start is deprecated in the renderer process. Call it from the main process instead. 
+[12/17/20, 22:33:18:033] info: Creating desktop interface object 
+[12/17/20, 22:33:18:033] info: Exposing context bridge 
+[12/17/20, 22:33:18:044] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "loaded"
+} 
+[12/17/20, 22:33:18:276] info: [METRICS] Starting timers for metrics collection 
+[12/17/20, 22:33:18:324] info: [PERF] setupGantry_w begin 376ms 
+[12/17/20, 22:33:18:324] info: [APP] client 
+[12/17/20, 22:33:18:324] info: [DATE/TIME] 1608262398324 "2020-12-18T03:33:18.324Z" 
+[12/17/20, 22:33:18:324] info: [VERSION] version_hash: 677b0f759fe8e80c07518f28378f3ae813e87acd 
+[12/17/20, 22:33:18:325] info: [VERSION] version_ts: 1608254389 
+[12/17/20, 22:33:18:325] info: [VERSION] min_version_data_ts: 1581290339 
+[12/17/20, 22:33:18:325] info: [AUTH] authCookieChanged: started listening to the event 
+[12/17/20, 22:33:18:326] info: [AUTH] Need to re-fetch auth (sc=true, psc=NaN, csc=1608262397, mfc=true, lf=0, mf=1562000400) 
+[12/17/20, 22:33:18:326] info: [AUTH] fetchAuthAndReturnToUrl: auth fetch times: 1608262398326 
+[12/17/20, 22:33:18:327] info: [AUTH] fetchAuthAndReturnToUrl: will return to /client 
+[12/17/20, 22:33:18:327] info: [AUTH] fetchAuthAndReturnToUrl: fetching credentials with iframe at /auth?app=client&return_to=%2Fclient&teams= 
+[12/17/20, 22:33:18:329] info: [WD] All assets have reported back; s: 7; f: 0 
+[12/17/20, 22:33:18:329] info: Store: UPDATE_SETTINGS {
+  "userTheme": "light"
+} 
+[12/17/20, 22:33:18:329] info: Store: UPDATE_SETTINGS {
+  "systemThemeSyncEnabled": false
+} 
+[12/17/20, 22:33:18:377] info: [AUTH] credentials are ready 
+[12/17/20, 22:33:18:378] info: [AUTH] credentials are ready ({"added":["TJN97SEKH","T018J5BHUA3"],"changed":[],"removed":[],"isNoOp":false,"usersChanged":false}) 
+[12/17/20, 22:33:18:379] info: [LOCAL-CONFIG] ingestIncomingConfig(): processing 1003 bytes of data 
+[12/17/20, 22:33:18:379] info: [LOCAL-CONFIG] ingestIncomingConfig(): teams before: (none), teams now: TJN97SEKH:U01HGBMFTH6,T018J5BHUA3:U01953S3FGU 
+[12/17/20, 22:33:18:380] info: [BOOT] Initial team ID: TJN97SEKH 
+[12/17/20, 22:33:18:381] info: [PERF] setupGantry_w took 57.24ms 
+[12/17/20, 22:33:18:382] info: [PERF] bootClient_w begin 435ms 
+[12/17/20, 22:33:18:386] info: [BOOT] (TJN97SEKH) Initializing boot 
+[12/17/20, 22:33:18:391] info: [BOOT] (TJN97SEKH) Minimum supported data version is 1581290339; currently on undefined 
+[12/17/20, 22:33:18:391] info: [BOOT] (TJN97SEKH) Skipping checking persisted store because if it exists it's out of date 
+[12/17/20, 22:33:18:393] info: [PERSIST] (TJN97SEKH) Purging persisted model... 
+[12/17/20, 22:33:18:395] info: [TRACER] Tracing is not sampled by default for this session. 
+[12/17/20, 22:33:18:397] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262398.396 client.boot called with reason: initial-data 
+[12/17/20, 22:33:18:397] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262398.396 client.boot is ENQUEUED 
+[12/17/20, 22:33:18:397] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262398.396 client.boot is ACTIVE 
+[12/17/20, 22:33:18:398] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262398.398 api.features called 
+[12/17/20, 22:33:18:398] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262398.398 api.features is ENQUEUED 
+[12/17/20, 22:33:18:398] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262398.398 api.features is ACTIVE 
+[12/17/20, 22:33:18:399] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262398.398 experiments.getByUser called 
+[12/17/20, 22:33:18:399] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262398.398 experiments.getByUser is ENQUEUED 
+[12/17/20, 22:33:18:399] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262398.398 experiments.getByUser is ACTIVE 
+[12/17/20, 22:33:18:399] info: [BOOT] Couldn't determine boot channel. Falling back to default channel 
+[12/17/20, 22:33:18:405] info: [PERSIST] (TJN97SEKH) Purged model 
+[12/17/20, 22:33:18:512] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262398.398 api.features is RESOLVED 
+[12/17/20, 22:33:18:521] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262398.398 experiments.getByUser is RESOLVED 
+[12/17/20, 22:33:18:572] info: Network status check {
+  "elapsed_time_ms": 40,
+  "navigator_online": true,
+  "api_test": "online"
+} 
+[12/17/20, 22:33:18:573] info: Store: SET_NETWORK_STATUS online 
+[12/17/20, 22:33:18:592] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262398.396 client.boot is RESOLVED 
+[12/17/20, 22:33:18:592] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262398.592 onboarding.fetch called 
+[12/17/20, 22:33:18:593] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262398.592 onboarding.fetch is ENQUEUED 
+[12/17/20, 22:33:18:593] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262398.592 onboarding.fetch is ACTIVE 
+[12/17/20, 22:33:19:210] info: [WD] All assets have reported back; s: 10; f: 0 
+[12/17/20, 22:33:19:210] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262398.592 onboarding.fetch is RESOLVED 
+[12/17/20, 22:33:19:211] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262399.211 onboarding.welcome called 
+[12/17/20, 22:33:19:211] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262399.211 onboarding.welcome is ENQUEUED 
+[12/17/20, 22:33:19:212] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262399.211 onboarding.welcome is ACTIVE 
+[12/17/20, 22:33:19:303] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262399.211 onboarding.welcome is RESOLVED 
+[12/17/20, 22:33:19:303] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262399.303 lab.features called 
+[12/17/20, 22:33:19:304] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262399.303 lab.features is ENQUEUED 
+[12/17/20, 22:33:19:304] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262399.303 lab.features is ACTIVE 
+[12/17/20, 22:33:19:358] info: [BOOT-QUEUE] TJN97SEKH noversion-1608262399.303 lab.features is RESOLVED 
+[12/17/20, 22:33:19:399] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[12/17/20, 22:33:19:404] info: [BOOT] teamId: TJN97SEKH; Maybe boot with notifications socket 
+[12/17/20, 22:33:19:430] info: [DESKTOP-MIDDLEWARE] (TJN97SEKH) Forwarding redux payload to desktop ["theme","notificationPrefs","connectivityPrefs","featureFlags","unreads","locale"] 
+[12/17/20, 22:33:19:431] warn: TELEMETRY You tried to get a team-specific telemeter but didn’t provide enough context and are getting the generic telemeter instead which is likely not what you want. 
+[12/17/20, 22:33:19:446] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[12/17/20, 22:33:19:447] info: [BOOT] (TJN97SEKH) Booting cold 
+[12/17/20, 22:33:19:450] info: [BOOT] (TJN97SEKH) Dispatching boot data 
+[12/17/20, 22:33:19:451] info: [DESKTOP-MIDDLEWARE] (TJN97SEKH) Forwarding redux payload to desktop ["featureFlags","version","userId"] 
+[12/17/20, 22:33:19:461] info: [DESKTOP-MIDDLEWARE] (TJN97SEKH) Forwarding redux payload to desktop ["theme","notificationPrefs","unreads"] 
+[12/17/20, 22:33:19:461] info: [DESKTOP-MIDDLEWARE] (TJN97SEKH) Forwarding redux payload to desktop ["connectivityPrefs"] 
+[12/17/20, 22:33:19:472] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[12/17/20, 22:33:19:473] info: [TRACER] (TJN97SEKH) Tracing is not sampled by default for this team. 
+[12/17/20, 22:33:19:474] info: [API-Q] (TJN97SEKH) 677b0f75-1608262399.472 emoji.list called with reason: loadEmoji 
+[12/17/20, 22:33:19:474] info: [API-Q] (TJN97SEKH) 677b0f75-1608262399.472 emoji.list is ENQUEUED 
+[12/17/20, 22:33:19:474] info: [API-Q] (TJN97SEKH) 677b0f75-1608262399.472 emoji.list is ACTIVE 
+[12/17/20, 22:33:19:475] info: [API-Q] (TJN97SEKH) 677b0f75-1608262399.474 commands.list called with reason: loadSlashCommands 
+[12/17/20, 22:33:19:475] info: [API-Q] (TJN97SEKH) 677b0f75-1608262399.474 commands.list is ENQUEUED 
+[12/17/20, 22:33:19:475] info: [API-Q] (TJN97SEKH) 677b0f75-1608262399.474 commands.list is ACTIVE 
+[12/17/20, 22:33:19:485] info: [PLATFORM-CHANNEL-ACTI] (TJN97SEKH) setting count for channel CJKU3CHEY to 0, and marking channel as stale. 
+[12/17/20, 22:33:19:486] info: [BOOT] (TJN97SEKH) Boot complete 
+[12/17/20, 22:33:19:488] info: [API-Q] (TJN97SEKH) 677b0f75-1608262399.487 i18n.translations.get called with reason: no_reason_provided 
+[12/17/20, 22:33:19:488] info: [API-Q] (TJN97SEKH) 677b0f75-1608262399.487 i18n.translations.get is ENQUEUED 
+[12/17/20, 22:33:19:488] info: [API-Q] (TJN97SEKH) 677b0f75-1608262399.487 i18n.translations.get is ACTIVE 
+[12/17/20, 22:33:19:489] info: [UNREAD-COUNTS] (TJN97SEKH) Counting unreads in CJKU3CHEY because (28) timestamps added 
+[12/17/20, 22:33:19:490] info: [DESKTOP-SIDE-EFFECT] (TJN97SEKH) Reacting to  {"type":"[54] Set a value that represents whether we are currently in the boot phase","payload":false,"error":false} 
+[12/17/20, 22:33:19:491] info: [AUTH] Installing incremental auth handler 
+[12/17/20, 22:33:19:493] info: [API-Q] (TJN97SEKH) 677b0f75-1608262399.493 api.getFlannelHttpUrl called with reason: client-needs-valid-flannel-url 
+[12/17/20, 22:33:19:493] info: [API-Q] (TJN97SEKH) 677b0f75-1608262399.493 api.getFlannelHttpUrl is ENQUEUED 
+[12/17/20, 22:33:19:493] info: [API-Q] (TJN97SEKH) 677b0f75-1608262399.493 api.getFlannelHttpUrl is ACTIVE 
+[12/17/20, 22:33:19:494] info: [UNREAD-COUNTS] (TJN97SEKH) Checking unreads in CJKU3CHEY after a new message 
+[12/17/20, 22:33:19:494] info: [CHECK-UNREADS] (TJN97SEKH) Not marking CJKU3CHEY because attention not on chat (workspace_not_focused) 
+[12/17/20, 22:33:19:504] info: [DESKTOP-SIDE-EFFECT] (TJN97SEKH) Team TJN97SEKH booted, creating delegate 
+[12/17/20, 22:33:19:505] info: Exposing workspace desktop delegate for  {
+  "workspaceId": "TJN97SEKH"
+} 
+[12/17/20, 22:33:19:505] info: Setting global desktop delegate 
+[12/17/20, 22:33:19:505] info: [BOOT] (TJN97SEKH) Connecting to socket 
+[12/17/20, 22:33:19:505] info: [SOCKET-MANAGER] (TJN97SEKH) Changing from never_connected to prov_connect 
+[12/17/20, 22:33:19:505] info: [SOCKET-MANAGER] (TJN97SEKH) will stay in prov_connect state for up to 10000 ms 
+[12/17/20, 22:33:19:505] info: [SOCKET-MANAGER] (TJN97SEKH) Changing from prov_connect to prov_connecting 
+[12/17/20, 22:33:19:506] info: [SOCKET-MANAGER] (TJN97SEKH) will stay in prov_connecting state for up to 35000 ms 
+[12/17/20, 22:33:19:507] info: [BOOT] (TJN97SEKH) (TJN97SEKH) Mounting client 
+[12/17/20, 22:33:19:729] info: [PERF] (TJN97SEKH) First meaningful paint: 1147ms 
+[12/17/20, 22:33:19:730] info: [DRAFTS] (TJN97SEKH) There are no channels with drafts 
+[12/17/20, 22:33:19:730] info: [BOOT] (TJN97SEKH) Beaconed client boot mount success 
+[12/17/20, 22:33:19:736] info: [PERF] (TJN97SEKH) Logged time to visible (TTV): 1873.649999999543 
+[12/17/20, 22:33:19:773] info: [WORKSPACE] (TJN97SEKH) Workspace mounted, transitioning focus to primary view message-pane_message_input 
+[12/17/20, 22:33:19:944] info: [CHECK-UNREADS] (TJN97SEKH) unreadLineVisible updated: false -> true 
+[12/17/20, 22:33:19:948] info: [PERF] (TJN97SEKH) Logged time to usable (TTU): 2083.904999999504 
+[12/17/20, 22:33:20:046] info: [PERF] bootClient_w took 1664.16ms 
+[12/17/20, 22:33:20:047] info: [BOOT] Booting other teams: T018J5BHUA3 
+[12/17/20, 22:33:20:047] info: [BOOT] (T018J5BHUA3) Initializing boot 
+[12/17/20, 22:33:20:047] info: [BOOT] (T018J5BHUA3) Minimum supported data version is 1581290339; currently on undefined 
+[12/17/20, 22:33:20:047] info: [BOOT] (T018J5BHUA3) Skipping checking persisted store because if it exists it's out of date 
+[12/17/20, 22:33:20:048] info: [PERSIST] (T018J5BHUA3) Purging persisted model... 
+[12/17/20, 22:33:20:048] info: [BOOT-QUEUE] T018J5BHUA3 noversion-1608262400.048 client.boot called with reason: initial-data 
+[12/17/20, 22:33:20:048] info: [BOOT-QUEUE] T018J5BHUA3 noversion-1608262400.048 client.boot is ENQUEUED 
+[12/17/20, 22:33:20:048] info: [BOOT-QUEUE] T018J5BHUA3 noversion-1608262400.048 client.boot is ACTIVE 
+[12/17/20, 22:33:20:049] info: [BOOT-QUEUE] T018J5BHUA3 noversion-1608262400.049 api.features called 
+[12/17/20, 22:33:20:049] info: [BOOT-QUEUE] T018J5BHUA3 noversion-1608262400.049 api.features is ENQUEUED 
+[12/17/20, 22:33:20:049] info: [BOOT-QUEUE] T018J5BHUA3 noversion-1608262400.049 experiments.getByUser called 
+[12/17/20, 22:33:20:049] info: [BOOT-QUEUE] T018J5BHUA3 noversion-1608262400.049 experiments.getByUser is ENQUEUED 
+[12/17/20, 22:33:20:049] info: [BOOT] Couldn't determine boot channel. Falling back to default channel 
+[12/17/20, 22:33:20:065] info: [CHECK-UNREADS] (TJN97SEKH) Checking unreads after workspace became focused 
+[12/17/20, 22:33:20:066] info: [CHECK-UNREADS] (TJN97SEKH) Not marking CJKU3CHEY because last_read >= latest && channel is read 
+[12/17/20, 22:33:20:066] info: [CHECK-UNREADS] (TJN97SEKH) Checking unreads after window became focused 
+[12/17/20, 22:33:20:066] info: [CHECK-UNREADS] (TJN97SEKH) Not marking CJKU3CHEY because last_read >= latest && channel is read 
+[12/17/20, 22:33:20:080] info: Store: SYNC (Empty) 
+[12/17/20, 22:33:20:080] info: Store: SELECTION_CHANGED TJN97SEKH 
+[12/17/20, 22:33:20:080] info: Store: REDUX_UPDATE_FROM_WEBAPP (TJN97SEKH) Changed keys [theme,notificationPrefs,connectivityPrefs,featureFlags,unreads,locale] 
+[12/17/20, 22:33:20:080] info: Store: REDUX_UPDATE_FROM_WEBAPP (TJN97SEKH) Changed keys [featureFlags,version,userId] 
+[12/17/20, 22:33:20:084] info: Store: REDUX_UPDATE_FROM_WEBAPP (TJN97SEKH) Changed keys [theme,notificationPrefs,unreads] 
+[12/17/20, 22:33:20:084] info: Store: REDUX_UPDATE_FROM_WEBAPP (TJN97SEKH) Changed keys [connectivityPrefs] 
+[12/17/20, 22:33:20:084] info: Store: SYNC Synced 1 workspaces with IDs [TJN97SEKH] 
+[12/17/20, 22:33:20:085] info: Store: SELECTION_CHANGED TJN97SEKH 
+[12/17/20, 22:33:20:085] info: [API-Q] (TJN97SEKH) 677b0f75-1608262399.472 emoji.list is RESOLVED 
+[12/17/20, 22:33:20:086] info: [API-Q] (TJN97SEKH) 677b0f75-1608262399.474 commands.list is RESOLVED 
+[12/17/20, 22:33:20:086] info: [API-Q] (TJN97SEKH) 677b0f75-1608262399.487 i18n.translations.get is RESOLVED 
+[12/17/20, 22:33:20:087] info: [API-Q] (TJN97SEKH) 677b0f75-1608262399.493 api.getFlannelHttpUrl is RESOLVED 
+[12/17/20, 22:33:20:088] info: Store: UPDATE_SETTINGS {
+  "forceHiddenInsetTitleBar": false
+} 
+[12/17/20, 22:33:20:091] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[12/17/20, 22:33:20:091] info: Store: UPDATE_SETTINGS {
+  "trafficLightPosition": {
+    "x": 14,
+    "y": 22
+  }
+} 
+[12/17/20, 22:33:20:092] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[12/17/20, 22:33:20:092] info: Store: UPDATE_SETTINGS {
+  "isIAEnabled": true
+} 
+[12/17/20, 22:33:20:093] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[12/17/20, 22:33:20:093] info: [UNKNOWN-FETCH-MANAGER] (TJN97SEKH) requesting UJN97SF2B,UJ91W1U66,U01GA9NC51D,U01HGBMFTH6,U01GTA13RTP,URK1UN335,U01GNDB01SA,UV56U11U3,U019CRLBDND,U0196CQM7D2,USLACKBOT,U01DMRX4LHK,U01903XKFPY,URK4VNPMX,U019AG667D1 (1) 
+[12/17/20, 22:33:20:095] info: [FLANNEL] (TJN97SEKH) received a user_subscribe_request call while we are not connected; deferring 
+[12/17/20, 22:33:20:096] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.095 calendar.getInstalledCalendars called with reason: calendar-get-installed-calendars 
+[12/17/20, 22:33:20:096] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.095 calendar.getInstalledCalendars is ENQUEUED 
+[12/17/20, 22:33:20:096] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.095 calendar.getInstalledCalendars is ACTIVE 
+[12/17/20, 22:33:20:096] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.096 drafts.list called with reason: boot-team 
+[12/17/20, 22:33:20:097] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.096 drafts.list is ENQUEUED 
+[12/17/20, 22:33:20:097] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.096 drafts.list is ACTIVE 
+[12/17/20, 22:33:20:097] info: [DRAFTS] (TJN97SEKH) No local drafts - skipping fetch to purge inactive drafts 
+[12/17/20, 22:33:20:097] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.097 promo.banner called with reason: fetch-megaphone-notification-data 
+[12/17/20, 22:33:20:098] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.097 promo.banner is ENQUEUED 
+[12/17/20, 22:33:20:098] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.097 promo.banner is ACTIVE 
+[12/17/20, 22:33:20:099] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.099 team.whatsNew called with reason: boot-team 
+[12/17/20, 22:33:20:099] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.099 team.whatsNew is ENQUEUED 
+[12/17/20, 22:33:20:099] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.099 team.whatsNew is ACTIVE 
+[12/17/20, 22:33:20:100] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.099 help.issues.list called with reason: fetchAndUpsertHelpIssues 
+[12/17/20, 22:33:20:100] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.099 help.issues.list is ENQUEUED 
+[12/17/20, 22:33:20:100] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.099 help.issues.list is ACTIVE 
+[12/17/20, 22:33:20:100] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.100 users.channelSections.list called with reason: conditional-fetch-manager 
+[12/17/20, 22:33:20:100] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.100 users.channelSections.list is ENQUEUED 
+[12/17/20, 22:33:20:101] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.100 users.channelSections.list is ACTIVE 
+[12/17/20, 22:33:20:121] info: [UNKNOWN-FETCH-MANAGER] (TJN97SEKH) requesting C01DQLQQXAQ (1) 
+[12/17/20, 22:33:20:182] info: [EMOJI_STORE] (TJN97SEKH) Adding custom emoji to TJN97SEKH at 1560987000.000000 
+[12/17/20, 22:33:20:185] info: [API-Q] (TJN97SEKH) noversion-1608262400.184 Flannel channels/info called with reason: flannel-call:channels/info 
+[12/17/20, 22:33:20:185] info: [API-Q] (TJN97SEKH) noversion-1608262400.184 Flannel channels/info is ENQUEUED 
+[12/17/20, 22:33:20:185] info: [API-Q] (TJN97SEKH) noversion-1608262400.184 Flannel channels/info is ACTIVE 
+[12/17/20, 22:33:20:185] info: [API-Q] (TJN97SEKH) noversion-1608262400.185 Flannel users/list called with reason: flannel-call:users/list 
+[12/17/20, 22:33:20:186] info: [API-Q] (TJN97SEKH) noversion-1608262400.185 Flannel users/list is ENQUEUED 
+[12/17/20, 22:33:20:186] info: [API-Q] (TJN97SEKH) noversion-1608262400.185 Flannel users/list is ACTIVE 
+[12/17/20, 22:33:20:186] info: [API-Q] (TJN97SEKH) noversion-1608262400.185 Flannel users/info called with reason: flannel-call:users/info 
+[12/17/20, 22:33:20:186] info: [API-Q] (TJN97SEKH) noversion-1608262400.185 Flannel users/info is ENQUEUED 
+[12/17/20, 22:33:20:187] info: [API-Q] (TJN97SEKH) noversion-1608262400.185 Flannel users/info is ACTIVE 
+[12/17/20, 22:33:20:187] info: [API-Q] (TJN97SEKH) noversion-1608262400.186 Flannel users/info called with reason: flannel-call:users/info 
+[12/17/20, 22:33:20:189] info: [API-Q] (TJN97SEKH) noversion-1608262400.186 Flannel users/info is ENQUEUED 
+[12/17/20, 22:33:20:189] info: [API-Q] (TJN97SEKH) noversion-1608262400.186 Flannel users/info is ACTIVE 
+[12/17/20, 22:33:20:189] info: [API-Q] (TJN97SEKH) noversion-1608262400.186 Flannel users/counts called with reason: flannel-call:users/counts 
+[12/17/20, 22:33:20:190] info: [API-Q] (TJN97SEKH) noversion-1608262400.186 Flannel users/counts is ENQUEUED 
+[12/17/20, 22:33:20:190] info: [API-Q] (TJN97SEKH) noversion-1608262400.186 Flannel channels/info called with reason: flannel-call:channels/info 
+[12/17/20, 22:33:20:190] info: [API-Q] (TJN97SEKH) noversion-1608262400.186 Flannel channels/info is ENQUEUED 
+[12/17/20, 22:33:20:190] info: [UNKNOWN-FETCH-MANAGER] (TJN97SEKH) requesting _all_actions (1) 
+[12/17/20, 22:33:20:190] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.187 apps.actions.v2.list called with reason: list-message-actions 
+[12/17/20, 22:33:20:191] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.187 apps.actions.v2.list is ENQUEUED 
+[12/17/20, 22:33:20:191] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.096 drafts.list is RESOLVED 
+[12/17/20, 22:33:20:191] info: [API-Q] (TJN97SEKH) noversion-1608262400.186 Flannel channels/info is ACTIVE 
+[12/17/20, 22:33:20:191] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.099 help.issues.list is RESOLVED 
+[12/17/20, 22:33:20:192] info: [API-Q] (TJN97SEKH) noversion-1608262400.186 Flannel users/counts is ACTIVE 
+[12/17/20, 22:33:20:192] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.095 calendar.getInstalledCalendars is RESOLVED 
+[12/17/20, 22:33:20:192] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.187 apps.actions.v2.list is ACTIVE 
+[12/17/20, 22:33:20:192] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.099 team.whatsNew is RESOLVED 
+[12/17/20, 22:33:20:233] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.100 users.channelSections.list is RESOLVED 
+[12/17/20, 22:33:20:236] info: [DRAFTS] (TJN97SEKH) No active drafts 
+[12/17/20, 22:33:20:236] info: [DRAFTS] (TJN97SEKH) Successfully fetched all active and inactive drafts ✨ 
+[12/17/20, 22:33:20:240] info: [BOOT-QUEUE] T018J5BHUA3 noversion-1608262400.048 client.boot is RESOLVED 
+[12/17/20, 22:33:20:240] info: [BOOT-QUEUE] T018J5BHUA3 noversion-1608262400.049 api.features is ACTIVE 
+[12/17/20, 22:33:20:265] info: [SOCKET-MANAGER] (TJN97SEKH) Changing from prov_connecting to prov_connected 
+[12/17/20, 22:33:20:266] info: [SOCKET-MANAGER] (TJN97SEKH) will stay in prov_connected state for up to 60000 ms 
+[12/17/20, 22:33:20:266] info: [SOCKET-MANAGER] (TJN97SEKH) Changing from prov_connected to prov_finalize 
+[12/17/20, 22:33:20:267] info: [SOCKET-MANAGER] (TJN97SEKH) will stay in prov_finalize state for up to 10000 ms 
+[12/17/20, 22:33:20:267] info: [SOCKET-MANAGER] (TJN97SEKH) Changing from prov_finalize to prov_finalizing 
+[12/17/20, 22:33:20:267] info: [SOCKET-MANAGER] (TJN97SEKH) will stay in prov_finalizing state for up to 10000 ms 
+[12/17/20, 22:33:20:267] info: [SOCKET-MANAGER] (TJN97SEKH) Changing from prov_finalizing to connected 
+[12/17/20, 22:33:20:267] info: [SOCKET-MANAGER] (TJN97SEKH) will stay in connected state for up to Infinity ms 
+[12/17/20, 22:33:20:267] info: [SOCKET-MANAGER] (TJN97SEKH) Connected to primary region 
+[12/17/20, 22:33:20:268] info: [FLANNEL] (TJN97SEKH) connected and trouble free! Continuing deferred user_subscribe_request call 
+[12/17/20, 22:33:20:269] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.269 users.customStatus.list called with reason: fetchCustomStatusOnReconnect 
+[12/17/20, 22:33:20:269] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.269 users.customStatus.list is ENQUEUED 
+[12/17/20, 22:33:20:269] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.269 users.customStatus.list is ACTIVE 
+[12/17/20, 22:33:20:270] info: [MESSAGE-HISTORY] (TJN97SEKH) Resetting reachedEnd 
+[12/17/20, 22:33:20:273] info: [PRESENCE_PROMPT] (TJN97SEKH) ignoring prompt due to presence (active) 
+[12/17/20, 22:33:20:273] info: [UNREAD-COUNTS] (TJN97SEKH) Fetching counts 
+[12/17/20, 22:33:20:274] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.273 client.counts called with reason: client-counts-api/fetchClientCounts 
+[12/17/20, 22:33:20:274] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.273 client.counts is ENQUEUED 
+[12/17/20, 22:33:20:274] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.273 client.counts is ACTIVE 
+[12/17/20, 22:33:20:315] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.187 apps.actions.v2.list is RESOLVED 
+[12/17/20, 22:33:20:341] info: [HISTORY-FETCH] (TJN97SEKH) Fetching history for message pane: CJKU3CHEY oldest: 1608226972.004700 latest: null 
+[12/17/20, 22:33:20:342] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.341 conversations.history called with reason: message-pane/requestHistory 
+[12/17/20, 22:33:20:342] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.341 conversations.history is ENQUEUED 
+[12/17/20, 22:33:20:342] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.341 conversations.history is ACTIVE 
+[12/17/20, 22:33:20:357] info: [CHECK-UNREADS] (TJN97SEKH) unreadLineVisible updated: true -> false 
+[12/17/20, 22:33:20:383] info: [DND] (TJN97SEKH) Preparing to fetch DND times for the following members: U01HGBMFTH6 
+[12/17/20, 22:33:20:384] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.383 dnd.info called with reason: getDndTimesForSubscribedMembers 
+[12/17/20, 22:33:20:384] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.383 dnd.info is ENQUEUED 
+[12/17/20, 22:33:20:384] info: [BOOT-QUEUE] T018J5BHUA3 noversion-1608262400.049 api.features is RESOLVED 
+[12/17/20, 22:33:20:385] info: [BOOT-QUEUE] T018J5BHUA3 noversion-1608262400.049 experiments.getByUser is ACTIVE 
+[12/17/20, 22:33:20:386] info: [API-Q] (TJN97SEKH) noversion-1608262400.386 Flannel channels/membership called with reason: flannel-call:channels/membership 
+[12/17/20, 22:33:20:386] info: [API-Q] (TJN97SEKH) noversion-1608262400.386 Flannel channels/membership is ENQUEUED 
+[12/17/20, 22:33:20:386] info: [PERSIST] (T018J5BHUA3) Purged model 
+[12/17/20, 22:33:20:387] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.097 promo.banner is RESOLVED 
+[12/17/20, 22:33:20:387] info: [API-Q] (TJN97SEKH) noversion-1608262400.386 Flannel channels/membership is ACTIVE 
+[12/17/20, 22:33:20:387] info: [UNKNOWN-FETCH-MANAGER] (TJN97SEKH) received _all_actions (1) 
+[12/17/20, 22:33:20:388] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.269 users.customStatus.list is RESOLVED 
+[12/17/20, 22:33:20:388] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.383 dnd.info is ACTIVE 
+[12/17/20, 22:33:20:389] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.273 client.counts is RESOLVED 
+[12/17/20, 22:33:20:401] info: [MESSAGE-LIST] (TJN97SEKH) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 28 
+[12/17/20, 22:33:20:431] info: [COUNTS] (TJN97SEKH) Applying counts to channels 
+[12/17/20, 22:33:20:432] info: [COUNTS] (TJN97SEKH) Threads has_unreads:false mention_count:0 
+[12/17/20, 22:33:20:433] info: [DESKTOP-MIDDLEWARE] (TJN97SEKH) Forwarding redux payload to desktop ["unreads"] 
+[12/17/20, 22:33:20:434] info: [COUNTS] (TJN97SEKH) Completed counts processing 
+[12/17/20, 22:33:20:435] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.341 conversations.history is RESOLVED 
+[12/17/20, 22:33:20:476] info: Store: REDUX_UPDATE_FROM_WEBAPP (TJN97SEKH) Changed keys [unreads] 
+[12/17/20, 22:33:20:477] info: [API-Q] (TJN97SEKH) 677b0f75-1608262400.383 dnd.info is RESOLVED 
+[12/17/20, 22:33:20:478] info: [API-Q] (TJN97SEKH) noversion-1608262400.186 Flannel channels/info is RESOLVED 
+[12/17/20, 22:33:20:478] info: [API-Q] (TJN97SEKH) noversion-1608262400.186 Flannel users/counts is RESOLVED 
+[12/17/20, 22:33:20:478] info: [API-Q] (TJN97SEKH) noversion-1608262400.184 Flannel channels/info is RESOLVED 
+[12/17/20, 22:33:20:479] info: [API-Q] (TJN97SEKH) noversion-1608262400.186 Flannel users/info is RESOLVED 
+[12/17/20, 22:33:20:482] info: [PLATFORM-CHANNEL-ACTI] (TJN97SEKH) Not updating count for channel CJKU3CHEY, as count was already set to 0 
+[12/17/20, 22:33:20:483] info: [PINS] (TJN97SEKH) Pins count updated for channel CJKU3CHEY: 3 
+[12/17/20, 22:33:20:483] info: [UNREAD-COUNTS] (TJN97SEKH) Counting unreads in CJKU3CHEY because (1) timestamps added 
+[12/17/20, 22:33:20:484] info: [UNREAD-COUNTS] (TJN97SEKH) Checking unreads in CJKU3CHEY after a new message 
+[12/17/20, 22:33:20:484] info: [CHECK-UNREADS] (TJN97SEKH) Not marking CJKU3CHEY because last_read >= latest && channel is read 
+[12/17/20, 22:33:20:485] info: [BOOT-QUEUE] T018J5BHUA3 noversion-1608262400.049 experiments.getByUser is RESOLVED 
+[12/17/20, 22:33:20:485] info: [API-Q] (TJN97SEKH) noversion-1608262400.185 Flannel users/info is RESOLVED 
+[12/17/20, 22:33:20:485] info: [DND] (TJN97SEKH) Fetched DND info for the following member: U01HGBMFTH6 
+[12/17/20, 22:33:20:486] info: [DND] (TJN97SEKH) Checking for changes in DND status for the following members: U01HGBMFTH6 
+[12/17/20, 22:33:20:486] info: [DND] (TJN97SEKH) Members with DND changes: U01HGBMFTH6 
+[12/17/20, 22:33:20:486] info: [DND] (TJN97SEKH) Will check for changes in DND status again in 5 minutes 
+[12/17/20, 22:33:20:487] info: [API-Q] (TJN97SEKH) noversion-1608262400.185 Flannel users/list is RESOLVED 
+[12/17/20, 22:33:20:488] info: [API-Q] (TJN97SEKH) noversion-1608262400.386 Flannel channels/membership is RESOLVED 
+[12/17/20, 22:33:20:488] info: [UNKNOWN-FETCH-MANAGER] (TJN97SEKH) received C01DQLQQXAQ (1) 
+[12/17/20, 22:33:20:508] info: [MESSAGE-LIST] (TJN97SEKH) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 28 
+[12/17/20, 22:33:20:520] info: [CHECK-UNREADS] (TJN97SEKH) unreadLineVisible updated: false -> true 
+[12/17/20, 22:33:20:552] info: [UNKNOWN-FETCH-MANAGER] (TJN97SEKH) received UJN97SF2B,UJ91W1U66,U01GA9NC51D,U01HGBMFTH6,U01GTA13RTP,URK1UN335,U01GNDB01SA,UV56U11U3,U019CRLBDND,U0196CQM7D2,USLACKBOT,U01DMRX4LHK,U01903XKFPY,URK4VNPMX,U019AG667D1 (1) 
+[12/17/20, 22:33:20:698] info: [BOOT-QUEUE] T018J5BHUA3 noversion-1608262400.697 lab.features called 
+[12/17/20, 22:33:20:698] info: [BOOT-QUEUE] T018J5BHUA3 noversion-1608262400.697 lab.features is ENQUEUED 
+[12/17/20, 22:33:20:698] info: [BOOT-QUEUE] T018J5BHUA3 noversion-1608262400.697 lab.features is ACTIVE 
+[12/17/20, 22:33:20:751] info: [BOOT-QUEUE] T018J5BHUA3 noversion-1608262400.697 lab.features is RESOLVED 
+[12/17/20, 22:33:20:751] info: [BOOT] teamId: T018J5BHUA3; Maybe boot with notifications socket 
+[12/17/20, 22:33:20:753] info: [DESKTOP-MIDDLEWARE] (T018J5BHUA3) Forwarding redux payload to desktop ["theme","notificationPrefs","connectivityPrefs","featureFlags","unreads","locale"] 
+[12/17/20, 22:33:20:755] warn: TELEMETRY You tried to get a team-specific telemeter but didn’t provide enough context and are getting the generic telemeter instead which is likely not what you want. 
+[12/17/20, 22:33:20:766] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[12/17/20, 22:33:20:766] info: [BOOT] (T018J5BHUA3) Booting cold 
+[12/17/20, 22:33:20:768] info: [BOOT] (T018J5BHUA3) Dispatching boot data 
+[12/17/20, 22:33:20:769] info: [DESKTOP-MIDDLEWARE] (T018J5BHUA3) Forwarding redux payload to desktop ["featureFlags","version","userId"] 
+[12/17/20, 22:33:20:771] info: [DESKTOP-MIDDLEWARE] (T018J5BHUA3) Forwarding redux payload to desktop ["theme","notificationPrefs","unreads"] 
+[12/17/20, 22:33:20:771] info: [DESKTOP-MIDDLEWARE] (T018J5BHUA3) Forwarding redux payload to desktop ["connectivityPrefs"] 
+[12/17/20, 22:33:20:783] info: [EMOJI_TRANSLATION] Emoji translations not needed for default locale, only adding keywords 
+[12/17/20, 22:33:20:783] info: [TRACER] (T018J5BHUA3) Tracing is not sampled by default for this team. 
+[12/17/20, 22:33:20:783] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.783 emoji.list called with reason: loadEmoji 
+[12/17/20, 22:33:20:783] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.783 emoji.list is ENQUEUED 
+[12/17/20, 22:33:20:784] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.783 emoji.list is ACTIVE 
+[12/17/20, 22:33:20:784] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.784 commands.list called with reason: loadSlashCommands 
+[12/17/20, 22:33:20:784] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.784 commands.list is ENQUEUED 
+[12/17/20, 22:33:20:790] info: [PLATFORM-CHANNEL-ACTI] (T018J5BHUA3) setting count for channel C018YT6A9QA to 0, and marking channel as stale. 
+[12/17/20, 22:33:20:791] info: [BOOT] (T018J5BHUA3) Boot complete 
+[12/17/20, 22:33:20:791] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.791 i18n.translations.get called with reason: no_reason_provided 
+[12/17/20, 22:33:20:791] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.791 i18n.translations.get is ENQUEUED 
+[12/17/20, 22:33:20:792] info: [UNREAD-COUNTS] (T018J5BHUA3) Counting unreads in C018YT6A9QA because (28) timestamps added 
+[12/17/20, 22:33:20:792] info: [DESKTOP-SIDE-EFFECT] (T018J5BHUA3) Reacting to  {"type":"[54] Set a value that represents whether we are currently in the boot phase","payload":false,"error":false} 
+[12/17/20, 22:33:20:792] info: [UNREAD-COUNTS] (T018J5BHUA3) Checking unreads in C018YT6A9QA after a new message 
+[12/17/20, 22:33:20:793] info: [CHECK-UNREADS] (T018J5BHUA3) Not marking C018YT6A9QA because attention not on chat (workspace_not_focused) 
+[12/17/20, 22:33:20:799] info: [DESKTOP-SIDE-EFFECT] (T018J5BHUA3) Team T018J5BHUA3 booted, creating delegate 
+[12/17/20, 22:33:20:799] info: Exposing workspace desktop delegate for  {
+  "workspaceId": "T018J5BHUA3"
+} 
+[12/17/20, 22:33:20:799] info: [DESKTOP-SIDE-EFFECT] (TJN97SEKH) Attempted boot for all workspaces, signaling desktop 
+[12/17/20, 22:33:20:800] info: [BOOT] (T018J5BHUA3) Connecting to socket 
+[12/17/20, 22:33:20:801] info: [SOCKET-MANAGER] (T018J5BHUA3) Changing from never_connected to prov_connect 
+[12/17/20, 22:33:20:801] info: [SOCKET-MANAGER] (T018J5BHUA3) will stay in prov_connect state for up to 10000 ms 
+[12/17/20, 22:33:20:801] info: [SOCKET-MANAGER] (T018J5BHUA3) Changing from prov_connect to prov_connecting 
+[12/17/20, 22:33:20:801] info: [SOCKET-MANAGER] (T018J5BHUA3) will stay in prov_connecting state for up to 35000 ms 
+[12/17/20, 22:33:20:801] info: [MIN-VERSION] Starting client min-version poll. 
+[12/17/20, 22:33:20:802] info: [PERSIST] Purging persisted models, except for the following teamIds ["TJN97SEKH","T018J5BHUA3"] 
+[12/17/20, 22:33:20:831] info: [CHECK-UNREADS] (TJN97SEKH) Checking unreads after workspace became focused 
+[12/17/20, 22:33:20:831] info: [CHECK-UNREADS] (TJN97SEKH) Not marking CJKU3CHEY because last_read >= latest && channel is read 
+[12/17/20, 22:33:20:834] info: Store: REDUX_UPDATE_FROM_WEBAPP (T018J5BHUA3) Changed keys [theme,notificationPrefs,connectivityPrefs,featureFlags,unreads,locale] 
+[12/17/20, 22:33:20:834] info: Store: REDUX_UPDATE_FROM_WEBAPP (T018J5BHUA3) Changed keys [featureFlags,version,userId] 
+[12/17/20, 22:33:20:834] info: Store: REDUX_UPDATE_FROM_WEBAPP (T018J5BHUA3) Changed keys [theme,notificationPrefs,unreads] 
+[12/17/20, 22:33:20:834] info: Store: REDUX_UPDATE_FROM_WEBAPP (T018J5BHUA3) Changed keys [connectivityPrefs] 
+[12/17/20, 22:33:20:834] info: Store: SYNC Synced 2 workspaces with IDs [TJN97SEKH,T018J5BHUA3] 
+[12/17/20, 22:33:20:834] info: Store: SELECTION_CHANGED TJN97SEKH 
+[12/17/20, 22:33:20:834] info: Store: UPSERT_WEB_CONTENTS {
+  "id": 1,
+  "state": "webapp-loaded"
+} 
+[12/17/20, 22:33:20:834] info: Store: RECORD_PERFORMANCE_TIMING {
+  "phase": 3,
+  "interval": 121547
+} 
+[12/17/20, 22:33:20:835] info: [API-Q] (TJN97SEKH) noversion-1608262400.835 Flannel channels/membership called with reason: flannel-call:channels/membership 
+[12/17/20, 22:33:20:835] info: [API-Q] (TJN97SEKH) noversion-1608262400.835 Flannel channels/membership is ENQUEUED 
+[12/17/20, 22:33:20:835] info: [API-Q] (TJN97SEKH) noversion-1608262400.835 Flannel channels/membership is ACTIVE 
+[12/17/20, 22:33:20:835] info: [UNKNOWN-FETCH-MANAGER] (T018J5BHUA3) requesting U018S67AJ78,U019NP0CKNC,U018Z4CQZDZ,U019BGQK5UH,U018YTQELG2,U018XGT1ZMK,USLACKBOT,U01953SJN5S,U018Z4CLA2F,U01953S3FGU,U019BGQ43MX,U018S689JES,U019NNGA9EU,U018J5VLC95,U018Z4CJXNX,U018XGT8XTP,U018S684U7Q,U018XGT88MT,U018XGTA5UM (1) 
+[12/17/20, 22:33:20:836] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.835 api.getFlannelHttpUrl called with reason: client-needs-valid-flannel-url 
+[12/17/20, 22:33:20:836] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.835 api.getFlannelHttpUrl is ENQUEUED 
+[12/17/20, 22:33:20:836] info: [FLANNEL] (T018J5BHUA3) received a user_subscribe_request call while we are not connected; deferring 
+[12/17/20, 22:33:20:837] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.837 calendar.getInstalledCalendars called with reason: calendar-get-installed-calendars 
+[12/17/20, 22:33:20:837] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.837 calendar.getInstalledCalendars is ENQUEUED 
+[12/17/20, 22:33:20:837] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.837 drafts.list called with reason: boot-team 
+[12/17/20, 22:33:20:837] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.837 drafts.list is ENQUEUED 
+[12/17/20, 22:33:20:837] info: [DRAFTS] (T018J5BHUA3) No local drafts - skipping fetch to purge inactive drafts 
+[12/17/20, 22:33:20:838] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.837 promo.banner called with reason: fetch-megaphone-notification-data 
+[12/17/20, 22:33:20:838] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.837 promo.banner is ENQUEUED 
+[12/17/20, 22:33:20:838] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.838 team.whatsNew called with reason: boot-team 
+[12/17/20, 22:33:20:838] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.838 team.whatsNew is ENQUEUED 
+[12/17/20, 22:33:20:839] info: [PERSIST] Purged persisted models [] 
+[12/17/20, 22:33:20:841] info: [UNKNOWN-FETCH-MANAGER] (T018J5BHUA3) requesting _all_actions (1) 
+[12/17/20, 22:33:20:841] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.841 apps.actions.v2.list called with reason: list-message-actions 
+[12/17/20, 22:33:20:841] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.841 apps.actions.v2.list is ENQUEUED 
+[12/17/20, 22:33:20:849] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.783 emoji.list is RESOLVED 
+[12/17/20, 22:33:20:849] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.835 api.getFlannelHttpUrl is ACTIVE 
+[12/17/20, 22:33:20:850] info: [EMOJI_STORE] (T018J5BHUA3) Adding custom emoji to T018J5BHUA3 at 1560987000.000000 
+[12/17/20, 22:33:20:858] info: [PERSIST] (T018J5BHUA3) Successfully persisted state 
+[12/17/20, 22:33:20:860] info: [SERVICE-WORKER] registration success {} 
+[12/17/20, 22:33:20:860] info: [SERVICE-WORKER-STATE] initial installing 
+[12/17/20, 22:33:20:861] info: [SERVICE-WORKER-STATE] change installed 1ms 
+[12/17/20, 22:33:20:861] info: [SERVICE-WORKER-STATE] change activating 
+[12/17/20, 22:33:20:891] info: [API-Q] (TJN97SEKH) noversion-1608262400.835 Flannel channels/membership is RESOLVED 
+[12/17/20, 22:33:20:936] info: [CHECK-UNREADS] (TJN97SEKH) Checking unreads after unread line became visible 
+[12/17/20, 22:33:20:936] info: [CHECK-UNREADS] (TJN97SEKH) Not marking CJKU3CHEY because last_read >= latest && channel is read 
+[12/17/20, 22:33:20:937] info: [BOOT] Service Worker activated; Fetching API calls for caching. 
+[12/17/20, 22:33:20:937] info: [SW-CACHE-API-QUEUE] noversion-1608262400.937 experiments.getByUser called 
+[12/17/20, 22:33:20:937] info: [SW-CACHE-API-QUEUE] noversion-1608262400.937 experiments.getByUser is ENQUEUED 
+[12/17/20, 22:33:20:938] info: [SW-CACHE-API-QUEUE] noversion-1608262400.937 experiments.getByUser is ACTIVE 
+[12/17/20, 22:33:20:941] info: [SW-CACHE-API-QUEUE] (TJN97SEKH) noversion-1608262400.939 api.features called 
+[12/17/20, 22:33:20:941] info: [SW-CACHE-API-QUEUE] (TJN97SEKH) noversion-1608262400.939 api.features is ENQUEUED 
+[12/17/20, 22:33:20:941] info: [SW-CACHE-API-QUEUE] (TJN97SEKH) noversion-1608262400.939 api.features is ACTIVE 
+[12/17/20, 22:33:20:941] info: [SW-CACHE-API-QUEUE] (T018J5BHUA3) noversion-1608262400.940 api.features called 
+[12/17/20, 22:33:20:941] info: [SW-CACHE-API-QUEUE] (T018J5BHUA3) noversion-1608262400.940 api.features is ENQUEUED 
+[12/17/20, 22:33:20:942] info: [SW-CACHE-API-QUEUE] (T018J5BHUA3) noversion-1608262400.940 api.features is ACTIVE 
+[12/17/20, 22:33:20:942] info: [SERVICE-WORKER-STATE] change activated 79ms 
+[12/17/20, 22:33:20:947] info: [PERSIST] (TJN97SEKH) Successfully persisted state 
+[12/17/20, 22:33:20:960] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.835 api.getFlannelHttpUrl is RESOLVED 
+[12/17/20, 22:33:20:960] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.784 commands.list is ACTIVE 
+[12/17/20, 22:33:20:964] info: [API-Q] (T018J5BHUA3) noversion-1608262400.963 Flannel users/info called with reason: flannel-call:users/info 
+[12/17/20, 22:33:20:964] info: [API-Q] (T018J5BHUA3) noversion-1608262400.963 Flannel users/info is ENQUEUED 
+[12/17/20, 22:33:20:964] info: [API-Q] (T018J5BHUA3) noversion-1608262400.963 Flannel users/info called with reason: flannel-call:users/info 
+[12/17/20, 22:33:20:964] info: [API-Q] (T018J5BHUA3) noversion-1608262400.963 Flannel users/info is ENQUEUED 
+[12/17/20, 22:33:21:028] info: [SW-CACHE-API-QUEUE] (T018J5BHUA3) noversion-1608262400.940 api.features is RESOLVED 
+[12/17/20, 22:33:21:031] info: [SW-CACHE-API-QUEUE] (TJN97SEKH) noversion-1608262400.939 api.features is RESOLVED 
+[12/17/20, 22:33:21:041] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.784 commands.list is RESOLVED 
+[12/17/20, 22:33:21:041] info: [API-Q] (T018J5BHUA3) noversion-1608262400.963 Flannel users/info is ACTIVE 
+[12/17/20, 22:33:21:056] info: [SW-CACHE-API-QUEUE] noversion-1608262400.937 experiments.getByUser is RESOLVED 
+[12/17/20, 22:33:21:094] info: [SOCKET-MANAGER] (T018J5BHUA3) Changing from prov_connecting to prov_connected 
+[12/17/20, 22:33:21:094] info: [SOCKET-MANAGER] (T018J5BHUA3) will stay in prov_connected state for up to 60000 ms 
+[12/17/20, 22:33:21:094] info: [SOCKET-MANAGER] (T018J5BHUA3) Changing from prov_connected to prov_finalize 
+[12/17/20, 22:33:21:095] info: [SOCKET-MANAGER] (T018J5BHUA3) will stay in prov_finalize state for up to 10000 ms 
+[12/17/20, 22:33:21:095] info: [SOCKET-MANAGER] (T018J5BHUA3) Changing from prov_finalize to prov_finalizing 
+[12/17/20, 22:33:21:095] info: [SOCKET-MANAGER] (T018J5BHUA3) will stay in prov_finalizing state for up to 10000 ms 
+[12/17/20, 22:33:21:095] info: [SOCKET-MANAGER] (T018J5BHUA3) Changing from prov_finalizing to connected 
+[12/17/20, 22:33:21:095] info: [SOCKET-MANAGER] (T018J5BHUA3) will stay in connected state for up to Infinity ms 
+[12/17/20, 22:33:21:096] info: [SOCKET-MANAGER] (T018J5BHUA3) Connected to primary region 
+[12/17/20, 22:33:21:099] info: [FLANNEL] (T018J5BHUA3) connected and trouble free! Continuing deferred user_subscribe_request call 
+[12/17/20, 22:33:21:100] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262401.096 users.customStatus.list called with reason: fetchCustomStatusOnReconnect 
+[12/17/20, 22:33:21:100] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262401.096 users.customStatus.list is ENQUEUED 
+[12/17/20, 22:33:21:102] info: [MESSAGE-HISTORY] (T018J5BHUA3) Resetting reachedEnd 
+[12/17/20, 22:33:21:102] info: [PRESENCE_PROMPT] (T018J5BHUA3) ignoring prompt due to presence (active) 
+[12/17/20, 22:33:21:102] info: [UNREAD-COUNTS] (T018J5BHUA3) Fetching counts 
+[12/17/20, 22:33:21:102] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262401.098 client.counts called with reason: client-counts-api/fetchClientCounts 
+[12/17/20, 22:33:21:102] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262401.098 client.counts is ENQUEUED 
+[12/17/20, 22:33:21:108] info: [API-Q] (TJN97SEKH) noversion-1608262401.107 Flannel users/info called with reason: flannel-call:users/info 
+[12/17/20, 22:33:21:108] info: [API-Q] (TJN97SEKH) noversion-1608262401.107 Flannel users/info is ENQUEUED 
+[12/17/20, 22:33:21:108] info: [API-Q] (TJN97SEKH) noversion-1608262401.107 Flannel users/info is ACTIVE 
+[12/17/20, 22:33:21:189] info: [API-Q] (TJN97SEKH) noversion-1608262401.107 Flannel users/info is RESOLVED 
+[12/17/20, 22:33:21:219] info: [API-Q] (T018J5BHUA3) noversion-1608262400.963 Flannel users/info is RESOLVED 
+[12/17/20, 22:33:21:219] info: [API-Q] (T018J5BHUA3) noversion-1608262400.963 Flannel users/info is ACTIVE 
+[12/17/20, 22:33:21:295] info: [API-Q] (T018J5BHUA3) noversion-1608262400.963 Flannel users/info is RESOLVED 
+[12/17/20, 22:33:21:295] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.791 i18n.translations.get is ACTIVE 
+[12/17/20, 22:33:21:296] info: [UNKNOWN-FETCH-MANAGER] (T018J5BHUA3) received U018S67AJ78,U019NP0CKNC,U018Z4CQZDZ,U019BGQK5UH,U018YTQELG2,U018XGT1ZMK,USLACKBOT,U01953SJN5S,U018Z4CLA2F,U01953S3FGU,U019BGQ43MX,U018S689JES,U019NNGA9EU,U018J5VLC95,U018Z4CJXNX,U018XGT8XTP,U018S684U7Q,U018XGT88MT,U018XGTA5UM (1) 
+[12/17/20, 22:33:21:367] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.791 i18n.translations.get is RESOLVED 
+[12/17/20, 22:33:21:367] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.837 calendar.getInstalledCalendars is ACTIVE 
+[12/17/20, 22:33:21:476] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.837 calendar.getInstalledCalendars is RESOLVED 
+[12/17/20, 22:33:21:476] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.837 drafts.list is ACTIVE 
+[12/17/20, 22:33:21:563] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.837 drafts.list is RESOLVED 
+[12/17/20, 22:33:21:563] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.837 promo.banner is ACTIVE 
+[12/17/20, 22:33:21:565] info: [DRAFTS] (T018J5BHUA3) Fetched 2 active drafts ✅ - page 1 
+[12/17/20, 22:33:21:565] info: [DRAFTS] (T018J5BHUA3) The blocks do not contain any mentions 
+[12/17/20, 22:33:21:566] info: [DRAFTS] (T018J5BHUA3) The blocks do not contain any mentions 
+[12/17/20, 22:33:21:566] info: [DRAFTS] (T018J5BHUA3) Reconciled fetched drafts:
+Drafts added: 2 || Dr01E15DDLKA,Dr01CWHNHQ4X
+Drafts updated: 0
+Drafts removed: 0
+Drafts ignored: 0 
+[12/17/20, 22:33:21:566] info: [DRAFTS] (T018J5BHUA3) No files associated with the fetched drafts 
+[12/17/20, 22:33:21:566] info: [DRAFTS] (T018J5BHUA3) Successfully fetched all active and inactive drafts ✨ 
+[12/17/20, 22:33:21:567] info: [DRAFTS] (T018J5BHUA3) Reconciled new draft - G0193QXRVHU 
+[12/17/20, 22:33:21:568] info: [DRAFTS] (T018J5BHUA3) Reconciled new draft - C019X5ML5AL-1600808103.013800 
+[12/17/20, 22:33:21:752] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.837 promo.banner is RESOLVED 
+[12/17/20, 22:33:21:753] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.838 team.whatsNew is ACTIVE 
+[12/17/20, 22:33:21:816] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.838 team.whatsNew is RESOLVED 
+[12/17/20, 22:33:21:816] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.841 apps.actions.v2.list is ACTIVE 
+[12/17/20, 22:33:21:855] info: [API-Q] (T018J5BHUA3) noversion-1608262401.855 Flannel users/info called with reason: flannel-call:users/info 
+[12/17/20, 22:33:21:855] info: [API-Q] (T018J5BHUA3) noversion-1608262401.855 Flannel users/info is ENQUEUED 
+[12/17/20, 22:33:21:876] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262400.841 apps.actions.v2.list is RESOLVED 
+[12/17/20, 22:33:21:876] info: [API-Q] (T018J5BHUA3) noversion-1608262401.855 Flannel users/info is ACTIVE 
+[12/17/20, 22:33:21:877] info: [UNKNOWN-FETCH-MANAGER] (T018J5BHUA3) received _all_actions (1) 
+[12/17/20, 22:33:21:914] info: [API-Q] (T018J5BHUA3) noversion-1608262401.855 Flannel users/info is RESOLVED 
+[12/17/20, 22:33:21:914] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262401.096 users.customStatus.list is ACTIVE 
+[12/17/20, 22:33:21:969] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262401.096 users.customStatus.list is RESOLVED 
+[12/17/20, 22:33:21:969] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262401.098 client.counts is ACTIVE 
+[12/17/20, 22:33:22:045] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262401.098 client.counts is RESOLVED 
+[12/17/20, 22:33:22:047] info: [COUNTS] (T018J5BHUA3) Applying counts to channels 
+[12/17/20, 22:33:22:053] info: [COUNTS] (T018J5BHUA3) Threads has_unreads:true mention_count:0 
+[12/17/20, 22:33:22:053] info: [DESKTOP-MIDDLEWARE] (T018J5BHUA3) Forwarding redux payload to desktop ["unreads"] 
+[12/17/20, 22:33:22:054] info: [COUNTS] (T018J5BHUA3) Completed counts processing 
+[12/17/20, 22:33:22:059] info: Store: REDUX_UPDATE_FROM_WEBAPP (T018J5BHUA3) Changed keys [unreads] 
+[12/17/20, 22:33:27:047] info: [API-Q] (TJN97SEKH) 677b0f75-1608262407.044 megaphone.setNotificationAsSeen called with reason: set-megaphone-notification-as-seen 
+[12/17/20, 22:33:27:047] info: [API-Q] (TJN97SEKH) 677b0f75-1608262407.044 megaphone.setNotificationAsSeen is ENQUEUED 
+[12/17/20, 22:33:27:047] info: [API-Q] (TJN97SEKH) 677b0f75-1608262407.044 megaphone.setNotificationAsSeen is ACTIVE 
+[12/17/20, 22:33:27:104] info: [API-Q] (TJN97SEKH) 677b0f75-1608262407.044 megaphone.setNotificationAsSeen is RESOLVED 
+[12/17/20, 22:33:28:138] info: [ACTION:CHANNEL-SIDEBAR] Selected C01GEGN1LN6 
+[12/17/20, 22:33:28:138] info: [CHANNEL-SIDEBAR] (TJN97SEKH) onItemSelect C01GEGN1LN6 
+[12/17/20, 22:33:28:215] info: [HISTORY-NAVIGATION] Adding route to the history stack 
+[12/17/20, 22:33:28:216] warn: redux-action-metrics Attempting to report trace without setting rootSpan. Hmm... 
+[12/17/20, 22:33:28:217] info: [SWITCH-TO-CHANNEL] (TJN97SEKH) Switching to C01GEGN1LN6 at end 
+[12/17/20, 22:33:28:222] info: [WORKSPACE] (TJN97SEKH) Primary view changed, transitioning focus to primary view message-pane_message_input 
+[12/17/20, 22:33:28:234] info: [MESSAGE-LIST] (TJN97SEKH) getScrollmark reason:channel_change channelId:CJKU3CHEY at end 
+[12/17/20, 22:33:28:235] info: [MESSAGE-LIST] (TJN97SEKH) Switching channels: C01GEGN1LN6 timestamps: 0 
+[12/17/20, 22:33:28:236] info: [MESSAGE-LIST] (TJN97SEKH) requestAround channelId: C01GEGN1LN6 isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[12/17/20, 22:33:28:236] info: [HISTORY-FETCH] (TJN97SEKH) Fetching history for message pane: C01GEGN1LN6 oldest: null latest: null 
+[12/17/20, 22:33:28:236] info: [API-Q] (TJN97SEKH) 677b0f75-1608262408.236 conversations.history called with reason: message-pane/requestHistory 
+[12/17/20, 22:33:28:236] info: [API-Q] (TJN97SEKH) 677b0f75-1608262408.236 conversations.history is ENQUEUED 
+[12/17/20, 22:33:28:236] info: [API-Q] (TJN97SEKH) 677b0f75-1608262408.236 conversations.history is ACTIVE 
+[12/17/20, 22:33:28:248] info: [MESSAGE-LIST] (TJN97SEKH) requestAround channelId: C01GEGN1LN6 isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[12/17/20, 22:33:28:248] info: [MESSAGE-LIST] (TJN97SEKH) requestAround channelId: C01GEGN1LN6 isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[12/17/20, 22:33:28:258] info: [API-Q] (TJN97SEKH) noversion-1608262408.258 Flannel users/list called with reason: flannel-call:users/list 
+[12/17/20, 22:33:28:259] info: [API-Q] (TJN97SEKH) noversion-1608262408.258 Flannel users/list is ENQUEUED 
+[12/17/20, 22:33:28:259] info: [API-Q] (TJN97SEKH) noversion-1608262408.258 Flannel users/list is ACTIVE 
+[12/17/20, 22:33:28:264] info: [API-Q] (TJN97SEKH) noversion-1608262408.264 Flannel users/counts called with reason: flannel-call:users/counts 
+[12/17/20, 22:33:28:264] info: [API-Q] (TJN97SEKH) noversion-1608262408.264 Flannel users/counts is ENQUEUED 
+[12/17/20, 22:33:28:264] info: [API-Q] (TJN97SEKH) noversion-1608262408.264 Flannel users/counts is ACTIVE 
+[12/17/20, 22:33:28:267] info: [MESSAGE-LIST] (TJN97SEKH) requestAround channelId: C01GEGN1LN6 isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[12/17/20, 22:33:28:274] info: [MESSAGE-LIST] (TJN97SEKH) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 0 
+[12/17/20, 22:33:28:299] info: [API-Q] (TJN97SEKH) noversion-1608262408.258 Flannel users/list is RESOLVED 
+[12/17/20, 22:33:28:300] info: [API-Q] (TJN97SEKH) noversion-1608262408.264 Flannel users/counts is RESOLVED 
+[12/17/20, 22:33:28:386] info: [API-Q] (TJN97SEKH) 677b0f75-1608262408.236 conversations.history is RESOLVED 
+[12/17/20, 22:33:28:395] info: [PLATFORM-CHANNEL-ACTI] (TJN97SEKH) setting count for channel C01GEGN1LN6 to 0, and marking channel as stale. 
+[12/17/20, 22:33:28:398] info: [PINS] (TJN97SEKH) Pins count updated for channel C01GEGN1LN6: 0 
+[12/17/20, 22:33:28:417] info: [MESSAGE-LIST] (TJN97SEKH) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 26 
+[12/17/20, 22:33:28:471] info: [CHECK-UNREADS] (TJN97SEKH) unreadLineVisible updated: false -> true 
+[12/17/20, 22:33:28:490] info: [REDUX-ACTION-METRICS] Closing and reporting spans for collection starting with: NOT_SAMPLED_SPAN_ID -  
+[12/17/20, 22:33:28:513] info: [API-Q] (TJN97SEKH) noversion-1608262408.512 Flannel channels/membership called with reason: flannel-call:channels/membership 
+[12/17/20, 22:33:28:513] info: [API-Q] (TJN97SEKH) noversion-1608262408.512 Flannel channels/membership is ENQUEUED 
+[12/17/20, 22:33:28:513] info: [API-Q] (TJN97SEKH) noversion-1608262408.512 Flannel channels/membership is ACTIVE 
+[12/17/20, 22:33:28:556] info: [API-Q] (TJN97SEKH) noversion-1608262408.512 Flannel channels/membership is RESOLVED 
+[12/17/20, 22:33:28:839] info: [CHECK-UNREADS] (TJN97SEKH) Checking unreads after unread line became visible 
+[12/17/20, 22:33:28:840] info: [CHECK-UNREADS] (TJN97SEKH) Not marking C01GEGN1LN6 because last_read >= latest && channel is read 
+[12/17/20, 22:33:28:991] warn: redux-action-metrics Attempting to report trace without setting rootSpan. Hmm... 
+[12/17/20, 22:33:35:094] info: [CHANNEL-MEMBERS] (TJN97SEKH) Fetching more 
+[12/17/20, 22:33:35:129] info: [API-Q] (TJN97SEKH) noversion-1608262415.128 Flannel users/list called with reason: flannel-call:users/list 
+[12/17/20, 22:33:35:129] info: [API-Q] (TJN97SEKH) noversion-1608262415.128 Flannel users/list is ENQUEUED 
+[12/17/20, 22:33:35:129] info: [API-Q] (TJN97SEKH) noversion-1608262415.128 Flannel users/list is ACTIVE 
+[12/17/20, 22:33:35:171] info: [API-Q] (TJN97SEKH) noversion-1608262415.128 Flannel users/list is RESOLVED 
+[12/17/20, 22:33:35:178] info: [CHANNEL-MEMBERS] (TJN97SEKH) Showing 14 members 
+[12/17/20, 22:33:35:178] info: [CHANNEL-MEMBERS] (TJN97SEKH) Done fetching 
+[12/17/20, 22:33:35:699] info: [DND] (TJN97SEKH) Preparing to fetch DND times for the following members: UJE9B5MND,U0196CQM7D2,U01903XKFPY,U019CRLBDND,U01GA9NC51D,UJN97SF2B,U01GTA13RTP,UJ91W1U66,U01DMRX4LHK,UV56U11U3 
+[12/17/20, 22:33:35:700] info: [API-Q] (TJN97SEKH) 677b0f75-1608262415.699 dnd.teamInfo called with reason: getDndTimesForSubscribedMembers:other 
+[12/17/20, 22:33:35:700] info: [API-Q] (TJN97SEKH) 677b0f75-1608262415.699 dnd.teamInfo is ENQUEUED 
+[12/17/20, 22:33:35:700] info: [API-Q] (TJN97SEKH) 677b0f75-1608262415.699 dnd.teamInfo is ACTIVE 
+[12/17/20, 22:33:35:760] info: [API-Q] (TJN97SEKH) 677b0f75-1608262415.699 dnd.teamInfo is RESOLVED 
+[12/17/20, 22:33:35:761] info: [DND] (TJN97SEKH) Fetched DND info for the following members: UJE9B5MND,U0196CQM7D2,U01903XKFPY,U019CRLBDND,U01GA9NC51D,UJN97SF2B,U01GTA13RTP,UJ91W1U66,U01DMRX4LHK,UV56U11U3 
+[12/17/20, 22:33:35:764] info: [DND] (TJN97SEKH) Checking for changes in DND status for the following members: U01HGBMFTH6,UJE9B5MND,U0196CQM7D2,U01903XKFPY,U019CRLBDND,U01GA9NC51D,UJN97SF2B,U01GTA13RTP,UJ91W1U66,U01DMRX4LHK,UV56U11U3 
+[12/17/20, 22:33:35:765] info: [DND] (TJN97SEKH) Members with DND changes: UJE9B5MND,U0196CQM7D2,U01903XKFPY,U019CRLBDND,U01GA9NC51D,UJN97SF2B,U01GTA13RTP,UJ91W1U66,U01DMRX4LHK,UV56U11U3 
+[12/17/20, 22:33:35:765] info: [DND] (TJN97SEKH) Will check for changes in DND status again in 5 minutes 
+[12/17/20, 22:33:36:618] info: [DND] (TJN97SEKH) Preparing to fetch DND times for the following members: URK4VNPMX,URK1UN335 
+[12/17/20, 22:33:36:618] info: [API-Q] (TJN97SEKH) 677b0f75-1608262416.618 dnd.teamInfo called with reason: getDndTimesForSubscribedMembers:other 
+[12/17/20, 22:33:36:619] info: [API-Q] (TJN97SEKH) 677b0f75-1608262416.618 dnd.teamInfo is ENQUEUED 
+[12/17/20, 22:33:36:619] info: [API-Q] (TJN97SEKH) 677b0f75-1608262416.618 dnd.teamInfo is ACTIVE 
+[12/17/20, 22:33:36:684] info: [API-Q] (TJN97SEKH) 677b0f75-1608262416.618 dnd.teamInfo is RESOLVED 
+[12/17/20, 22:33:36:687] info: [DND] (TJN97SEKH) Fetched DND info for the following members: URK4VNPMX,URK1UN335 
+[12/17/20, 22:33:36:689] info: [DND] (TJN97SEKH) Checking for changes in DND status for the following members: U01HGBMFTH6,UJE9B5MND,U0196CQM7D2,U01903XKFPY,U019CRLBDND,U01GA9NC51D,UJN97SF2B,U01GTA13RTP,UJ91W1U66,U01DMRX4LHK,UV56U11U3,URK4VNPMX,URK1UN335 
+[12/17/20, 22:33:36:690] info: [DND] (TJN97SEKH) Members with DND changes: URK4VNPMX,URK1UN335 
+[12/17/20, 22:33:36:690] info: [DND] (TJN97SEKH) Will check for changes in DND status again in 5 minutes 
+[12/17/20, 22:33:37:235] info: [DND] (TJN97SEKH) Preparing to fetch DND times for the following members: U01GNDB01SA 
+[12/17/20, 22:33:37:235] info: [API-Q] (TJN97SEKH) 677b0f75-1608262417.235 dnd.teamInfo called with reason: getDndTimesForSubscribedMembers:other 
+[12/17/20, 22:33:37:235] info: [API-Q] (TJN97SEKH) 677b0f75-1608262417.235 dnd.teamInfo is ENQUEUED 
+[12/17/20, 22:33:37:236] info: [API-Q] (TJN97SEKH) 677b0f75-1608262417.235 dnd.teamInfo is ACTIVE 
+[12/17/20, 22:33:37:289] info: [API-Q] (TJN97SEKH) 677b0f75-1608262417.235 dnd.teamInfo is RESOLVED 
+[12/17/20, 22:33:37:290] info: [DND] (TJN97SEKH) Fetched DND info for the following members: U01GNDB01SA 
+[12/17/20, 22:33:37:292] info: [DND] (TJN97SEKH) Checking for changes in DND status for the following members: U01HGBMFTH6,UJE9B5MND,U0196CQM7D2,U01903XKFPY,U019CRLBDND,U01GA9NC51D,UJN97SF2B,U01GTA13RTP,UJ91W1U66,U01DMRX4LHK,UV56U11U3,URK4VNPMX,URK1UN335,U01GNDB01SA 
+[12/17/20, 22:33:37:292] info: [DND] (TJN97SEKH) Members with DND changes: U01GNDB01SA 
+[12/17/20, 22:33:37:292] info: [DND] (TJN97SEKH) Will check for changes in DND status again in 5 minutes 
+[12/17/20, 22:33:53:968] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:34:00:555] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:34:01:294] info: [DRAFTS] Cancelling a pending draft sync - C01GEGN1LN6 
+[12/17/20, 22:34:06:530] info: [API-Q] (TJN97SEKH) 677b0f75-1608262446.524 channels.suggestions called with reason: channels-suggestions 
+[12/17/20, 22:34:06:530] info: [API-Q] (TJN97SEKH) 677b0f75-1608262446.524 channels.suggestions is ENQUEUED 
+[12/17/20, 22:34:06:531] info: [API-Q] (TJN97SEKH) 677b0f75-1608262446.524 channels.suggestions is ACTIVE 
+[12/17/20, 22:34:06:598] info: [API-Q] (TJN97SEKH) 677b0f75-1608262446.524 channels.suggestions is RESOLVED 
+[12/17/20, 22:34:20:269] info: [CHECK-FOR-OLD-IMS] (TJN97SEKH) Within limit: 2 
+[12/17/20, 22:34:21:097] info: [CHECK-FOR-OLD-IMS] (T018J5BHUA3) Missing channel section information 
+[12/17/20, 22:34:21:098] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262461.098 users.channelSections.list called with reason: conditional-fetch-manager 
+[12/17/20, 22:34:21:098] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262461.098 users.channelSections.list is ENQUEUED 
+[12/17/20, 22:34:21:099] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262461.098 users.channelSections.list is ACTIVE 
+[12/17/20, 22:34:21:150] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262461.098 users.channelSections.list is RESOLVED 
+[12/17/20, 22:34:21:333] info: [API-Q] (TJN97SEKH) 677b0f75-1608262461.333 client.counts called with reason: client-counts-api/fetchClientCounts 
+[12/17/20, 22:34:21:333] info: [API-Q] (TJN97SEKH) 677b0f75-1608262461.333 client.counts is ENQUEUED 
+[12/17/20, 22:34:21:334] info: [API-Q] (TJN97SEKH) 677b0f75-1608262461.333 client.counts is ACTIVE 
+[12/17/20, 22:34:21:415] info: [API-Q] (TJN97SEKH) 677b0f75-1608262461.333 client.counts is RESOLVED 
+[12/17/20, 22:34:21:420] info: [COUNTS] (TJN97SEKH) Applying counts to channels 
+[12/17/20, 22:34:21:426] info: [COUNTS] (TJN97SEKH) Recounted CJKU3CHEY; initial: {"unreadCnt":0,"unreadHighlightCnt":0}; after: {"unreadCnt":0,"unreadHighlightCnt":0} 
+[12/17/20, 22:34:21:426] info: [COUNTS] (TJN97SEKH) Recounted C01GEGN1LN6; initial: {"unreadCnt":0,"unreadHighlightCnt":0}; after: {"unreadCnt":0,"unreadHighlightCnt":0} 
+[12/17/20, 22:34:21:426] info: [COUNTS] (TJN97SEKH) Threads has_unreads:false mention_count:0 
+[12/17/20, 22:34:21:427] info: [COUNTS] (TJN97SEKH) Completed counts processing 
+[12/17/20, 22:34:25:485] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262465.484 client.counts called with reason: client-counts-api/fetchClientCounts 
+[12/17/20, 22:34:25:485] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262465.484 client.counts is ENQUEUED 
+[12/17/20, 22:34:25:486] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262465.484 client.counts is ACTIVE 
+[12/17/20, 22:34:25:557] info: [API-Q] (T018J5BHUA3) 677b0f75-1608262465.484 client.counts is RESOLVED 
+[12/17/20, 22:34:25:559] info: [COUNTS] (T018J5BHUA3) Applying counts to channels 
+[12/17/20, 22:34:25:560] info: [COUNTS] (T018J5BHUA3) Threads has_unreads:true mention_count:0 
+[12/17/20, 22:34:25:560] info: [COUNTS] (T018J5BHUA3) Completed counts processing 
+[12/17/20, 22:34:29:279] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[12/17/20, 22:34:29:304] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[12/17/20, 22:34:39:282] info: Store: SET_SYSTEM_IDLE active 
+[12/17/20, 22:34:39:286] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[12/17/20, 22:34:44:757] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 1145,
+      "y": 387,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[12/17/20, 22:34:44:764] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[12/17/20, 22:34:48:494] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 1101,
+      "y": 388,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[12/17/20, 22:34:48:501] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[12/17/20, 22:34:54:229] info: [FOCUS-EVENT] Client window blurred 
+[12/17/20, 22:36:19:287] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[12/17/20, 22:36:19:290] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[12/17/20, 22:37:19:296] info: Store: SET_SYSTEM_IDLE active 
+[12/17/20, 22:37:19:300] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[12/17/20, 22:37:49:294] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[12/17/20, 22:37:49:300] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[12/17/20, 22:37:59:295] info: Store: SET_SYSTEM_IDLE active 
+[12/17/20, 22:37:59:301] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[12/17/20, 22:38:37:317] info: [DND] (TJN97SEKH) Checking for changes in DND status for the following members: U01HGBMFTH6,UJE9B5MND,U0196CQM7D2,U01903XKFPY,U019CRLBDND,U01GA9NC51D,UJN97SF2B,U01GTA13RTP,UJ91W1U66,U01DMRX4LHK,UV56U11U3,URK4VNPMX,URK1UN335,U01GNDB01SA 
+[12/17/20, 22:38:37:323] info: [DND] (TJN97SEKH) Will check for changes in DND status again in 5 minutes 
+[12/17/20, 22:38:57:483] info: [FOCUS-EVENT] Client window focused 
+[12/17/20, 22:38:57:536] info: [CHECK-UNREADS] (TJN97SEKH) Checking unreads after window became focused 
+[12/17/20, 22:38:57:536] info: [CHECK-UNREADS] (TJN97SEKH) Not marking C01GEGN1LN6 because last_read >= latest && channel is read 
+[12/17/20, 22:39:01:304] info: [CHECK-UNREADS] (TJN97SEKH) unreadLineVisible updated: true -> false 
+[12/17/20, 22:39:02:372] info: [CHECK-UNREADS] (TJN97SEKH) unreadLineVisible updated: false -> true 
+[12/17/20, 22:39:02:725] info: [CHECK-UNREADS] (TJN97SEKH) Checking unreads after unread line became visible 
+[12/17/20, 22:39:02:726] info: [CHECK-UNREADS] (TJN97SEKH) Not marking C01GEGN1LN6 because last_read >= latest && channel is read 
+[12/17/20, 22:39:10:271] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:39:20:312] info: [DRAFTS] Firing debounced draft sync - C01GEGN1LN6 
+[12/17/20, 22:39:20:312] info: [DRAFTS] (TJN97SEKH) Syncing a new draft - C01GEGN1LN6 
+[12/17/20, 22:39:20:325] info: [API-Q] (TJN97SEKH) 677b0f75-1608262760.324 drafts.create called with reason: MessageInput:updateDraft 
+[12/17/20, 22:39:20:326] info: [API-Q] (TJN97SEKH) 677b0f75-1608262760.324 drafts.create is ENQUEUED 
+[12/17/20, 22:39:20:326] info: [API-Q] (TJN97SEKH) 677b0f75-1608262760.324 drafts.create is ACTIVE 
+[12/17/20, 22:39:20:506] info: [DRAFTS] (TJN97SEKH) RTM: draft_create - Dr01HWURFQ8Y 
+[12/17/20, 22:39:20:506] info: [DRAFTS] (TJN97SEKH) Ignoring a 'draft_create' event triggered by a local change: C01GEGN1LN6 
+[12/17/20, 22:39:20:567] info: [API-Q] (TJN97SEKH) 677b0f75-1608262760.324 drafts.create is RESOLVED 
+[12/17/20, 22:39:20:568] info: [DRAFTS] (TJN97SEKH) New draft synced - C01GEGN1LN6 
+[12/17/20, 22:39:39:300] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[12/17/20, 22:39:39:306] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[12/17/20, 22:40:38:115] info: [DRAFTS] (TJN97SEKH) Deleting a synced draft - client id: C01GEGN1LN6 || server id: Dr01HWURFQ8Y 
+[12/17/20, 22:40:38:116] info: [API-Q] (TJN97SEKH) 677b0f75-1608262838.115 drafts.delete called with reason: MessageInput:updateDraft 
+[12/17/20, 22:40:38:116] info: [API-Q] (TJN97SEKH) 677b0f75-1608262838.115 drafts.delete is ENQUEUED 
+[12/17/20, 22:40:38:116] info: [API-Q] (TJN97SEKH) 677b0f75-1608262838.115 drafts.delete is ACTIVE 
+[12/17/20, 22:40:38:294] info: [DRAFTS] (TJN97SEKH) RTM: draft_delete/draft_send - Dr01HWURFQ8Y - 916f98f7-137b-4eb4-9a19-97abe2da03de 
+[12/17/20, 22:40:38:331] info: [API-Q] (TJN97SEKH) 677b0f75-1608262838.115 drafts.delete is RESOLVED 
+[12/17/20, 22:40:38:335] info: [DRAFTS] (TJN97SEKH) Synced draft deleted - client id: C01GEGN1LN6 || server id: Dr01HWURFQ8Y 
+[12/17/20, 22:40:39:302] info: Store: SET_SYSTEM_IDLE active 
+[12/17/20, 22:40:39:304] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[12/17/20, 22:40:59:303] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[12/17/20, 22:40:59:306] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[12/17/20, 22:41:49:306] info: Store: SET_SYSTEM_IDLE active 
+[12/17/20, 22:41:49:310] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[12/17/20, 22:42:01:397] info: [FOCUS-EVENT] Client window blurred 
+[12/17/20, 22:43:37:654] info: [DND] (TJN97SEKH) Checking for changes in DND status for the following members: U01HGBMFTH6,UJE9B5MND,U0196CQM7D2,U01903XKFPY,U019CRLBDND,U01GA9NC51D,UJN97SF2B,U01GTA13RTP,UJ91W1U66,U01DMRX4LHK,UV56U11U3,URK4VNPMX,URK1UN335,U01GNDB01SA 
+[12/17/20, 22:43:37:664] info: [DND] (TJN97SEKH) Will check for changes in DND status again in 5 minutes 
+[12/17/20, 22:44:19:315] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[12/17/20, 22:44:19:328] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[12/17/20, 22:44:29:314] info: Store: SET_SYSTEM_IDLE active 
+[12/17/20, 22:44:29:317] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[12/17/20, 22:44:49:316] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[12/17/20, 22:44:49:322] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[12/17/20, 22:45:49:317] info: Store: SET_SYSTEM_IDLE active 
+[12/17/20, 22:45:49:320] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[12/17/20, 22:47:51:522] info: [FOCUS-EVENT] Client window focused 
+[12/17/20, 22:47:51:647] info: [CHECK-UNREADS] (TJN97SEKH) Checking unreads after window became focused 
+[12/17/20, 22:47:51:647] info: [CHECK-UNREADS] (TJN97SEKH) Not marking C01GEGN1LN6 because last_read >= latest && channel is read 
+[12/17/20, 22:47:52:507] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 1101,
+      "y": 388,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[12/17/20, 22:47:52:513] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[12/17/20, 22:48:00:616] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:48:09:980] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:48:15:413] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:48:18:633] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:48:25:616] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:48:31:080] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:48:37:687] info: [DND] (TJN97SEKH) Checking for changes in DND status for the following members: U01HGBMFTH6,UJE9B5MND,U0196CQM7D2,U01903XKFPY,U019CRLBDND,U01GA9NC51D,UJN97SF2B,U01GTA13RTP,UJ91W1U66,U01DMRX4LHK,UV56U11U3,URK4VNPMX,URK1UN335,U01GNDB01SA 
+[12/17/20, 22:48:37:692] info: [DND] (TJN97SEKH) Will check for changes in DND status again in 5 minutes 
+[12/17/20, 22:48:41:030] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:48:51:068] info: [DRAFTS] Firing debounced draft sync - C01GEGN1LN6 
+[12/17/20, 22:48:51:069] info: [DRAFTS] (TJN97SEKH) Syncing a new draft - C01GEGN1LN6 
+[12/17/20, 22:48:51:085] info: [API-Q] (TJN97SEKH) 677b0f75-1608263331.083 drafts.create called with reason: MessageInput:updateDraft 
+[12/17/20, 22:48:51:086] info: [API-Q] (TJN97SEKH) 677b0f75-1608263331.083 drafts.create is ENQUEUED 
+[12/17/20, 22:48:51:086] info: [API-Q] (TJN97SEKH) 677b0f75-1608263331.083 drafts.create is ACTIVE 
+[12/17/20, 22:48:51:196] info: [DRAFTS] (TJN97SEKH) RTM: draft_create - Dr01HD93LQ4C 
+[12/17/20, 22:48:51:197] info: [DRAFTS] (TJN97SEKH) Ignoring a 'draft_create' event triggered by a local change: C01GEGN1LN6 
+[12/17/20, 22:48:51:249] info: [API-Q] (TJN97SEKH) 677b0f75-1608263331.083 drafts.create is RESOLVED 
+[12/17/20, 22:48:51:251] info: [DRAFTS] (TJN97SEKH) New draft synced - C01GEGN1LN6 
+[12/17/20, 22:48:55:850] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:49:02:459] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:49:10:204] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:49:13:692] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:49:20:270] info: [CHECK-FOR-OLD-IMS] (TJN97SEKH) Within limit: 2 
+[12/17/20, 22:49:20:855] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:49:21:098] info: [CHECK-FOR-OLD-IMS] (T018J5BHUA3) Within limit: 11 
+[12/17/20, 22:49:24:213] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:49:26:839] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:49:32:282] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:49:39:378] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:49:41:858] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:49:46:246] info: [DRAFTS] (TJN97SEKH) Storing draft changes locally - C01GEGN1LN6 
+[12/17/20, 22:49:50:815] info: [DRAFTS] Cancelling a pending draft sync - C01GEGN1LN6 
+[12/17/20, 22:49:50:845] info: [ACTION:MESSAGE] (TJN97SEKH) Sent a message to C01GEGN1LN6 via HTTP, clientMsgId: d9f5c79a-8128-4b8f-9bce-4f795ae7a2a9 
+[12/17/20, 22:49:50:845] info: [ACTION:MESSAGE-Q] (TJN97SEKH) Enqueueing message with clientMsgId d9f5c79a-8128-4b8f-9bce-4f795ae7a2a9, queue has 1 messages 
+[12/17/20, 22:49:50:845] info: [ACTION:MESSAGE-Q] (TJN97SEKH) Sending message with clientMsgId d9f5c79a-8128-4b8f-9bce-4f795ae7a2a9 
+[12/17/20, 22:49:50:847] info: [API-Q] (TJN97SEKH) 677b0f75-1608263390.846 chat.postMessage called with reason: webapp_message_send 
+[12/17/20, 22:49:50:847] info: [API-Q] (TJN97SEKH) 677b0f75-1608263390.846 chat.postMessage is ENQUEUED 
+[12/17/20, 22:49:50:849] info: [API-Q] (TJN97SEKH) 677b0f75-1608263390.846 chat.postMessage is ACTIVE 
+[12/17/20, 22:49:50:850] info: [ACTION:MESSAGE-Q] (TJN97SEKH) Shifting queue, now has 0 messages 
+[12/17/20, 22:49:50:852] info: [UNREAD-COUNTS] (TJN97SEKH) Counting unreads in C01GEGN1LN6 because (1) timestamps added 
+[12/17/20, 22:49:50:852] info: [UNREAD-COUNTS] (TJN97SEKH) Checking unreads in C01GEGN1LN6 after a new message 
+[12/17/20, 22:49:50:853] info: [CHECK-UNREADS] (TJN97SEKH) Not marking C01GEGN1LN6 because last_read >= latest && channel is read 
+[12/17/20, 22:49:51:021] info: [ACTION:MESSAGE] (TJN97SEKH) Resolved a message with clientMsgId d9f5c79a-8128-4b8f-9bce-4f795ae7a2a9 in C01GEGN1LN6 with ts 1608263390.087300 
+[12/17/20, 22:49:51:022] info: [ACTION:MESSAGE-Q] (TJN97SEKH) Resolving active request with clientMsgId d9f5c79a-8128-4b8f-9bce-4f795ae7a2a9 
+[12/17/20, 22:49:51:025] info: [UNREAD-COUNTS] (TJN97SEKH) Counting unreads in C01GEGN1LN6 because (1) timestamps added 
+[12/17/20, 22:49:51:025] info: [UNREAD-COUNTS] (TJN97SEKH) Counting unreads in C01GEGN1LN6 because message removed 
+[12/17/20, 22:49:51:026] info: [API-Q] (TJN97SEKH) 677b0f75-1608263390.846 chat.postMessage is RESOLVED 
+[12/17/20, 22:49:51:126] info: [UNREAD-COUNTS] (TJN97SEKH) Counting unreads in C01GEGN1LN6 because last_read changed to 1608263390.087300 
+[12/17/20, 22:49:51:126] info: [DRAFTS] (TJN97SEKH) RTM: draft_delete/draft_send - Dr01HD93LQ4C - 9fca031d-012a-4cb1-b290-ec69b76a47a5 
+[12/17/20, 22:49:51:352] info: [UNREAD-COUNTS] (TJN97SEKH) Checking unreads in C01GEGN1LN6 after a new message 
+[12/17/20, 22:49:51:353] info: [CHECK-UNREADS] (TJN97SEKH) Not marking C01GEGN1LN6 because last_read >= latest && channel is read 
+[12/17/20, 22:49:51:854] info: [API-Q] (TJN97SEKH) 677b0f75-1608263391.853 onboarding.welcome called with reason: fetch-welcome-place-data 
+[12/17/20, 22:49:51:854] info: [API-Q] (TJN97SEKH) 677b0f75-1608263391.853 onboarding.welcome is ENQUEUED 
+[12/17/20, 22:49:51:854] info: [API-Q] (TJN97SEKH) 677b0f75-1608263391.853 onboarding.welcome is ACTIVE 
+[12/17/20, 22:49:51:959] info: [API-Q] (TJN97SEKH) 677b0f75-1608263391.853 onboarding.welcome is RESOLVED 
+[12/17/20, 22:50:00:751] info: [FOCUS-EVENT] Client window blurred 
+[12/17/20, 22:52:10:203] info: [FOCUS-EVENT] Client window focused 
+[12/17/20, 22:52:10:293] info: [CHECK-UNREADS] (TJN97SEKH) Checking unreads after window became focused 
+[12/17/20, 22:52:10:294] info: [CHECK-UNREADS] (TJN97SEKH) Not marking C01GEGN1LN6 because last_read >= latest && channel is read 
+[12/17/20, 22:52:11:131] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 1101,
+      "y": 388,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[12/17/20, 22:52:11:134] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[12/17/20, 22:52:14:490] info: [FOCUS-EVENT] Client window blurred 
+[12/17/20, 22:52:23:682] info: Store: UPDATE_SETTINGS {
+  "hasRunFromTray": true
+} 
+[12/17/20, 22:52:23:685] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[12/17/20, 22:52:23:685] info: Store: SHOW_TRAY_BALLOON {
+  "title": "Why didn’t Slack quit?",
+  "content": "Slack’s set to stay running in the notification area. To change this, visit Preferences > Advanced."
+} 
+[12/17/20, 22:52:24:702] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 1101,
+      "y": 360,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[12/17/20, 22:52:24:706] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[12/17/20, 22:52:26:743] info: Store: FOREGROUND_APP  
+[12/17/20, 22:52:26:779] info: [FOCUS-EVENT] Client window focused 
+[12/17/20, 22:52:26:848] info: [CHECK-UNREADS] (TJN97SEKH) Checking unreads after window became focused 
+[12/17/20, 22:52:26:848] info: [CHECK-UNREADS] (TJN97SEKH) Not marking C01GEGN1LN6 because last_read >= latest && channel is read 
+[12/17/20, 22:52:27:812] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 1101,
+      "y": 388,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[12/17/20, 22:52:27:816] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[12/17/20, 22:52:28:590] info: [FOCUS-EVENT] Client window blurred 
+[12/17/20, 22:53:29:330] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[12/17/20, 22:53:29:335] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[12/17/20, 22:53:38:651] info: [DND] (TJN97SEKH) Checking for changes in DND status for the following members: U01HGBMFTH6,UJE9B5MND,U0196CQM7D2,U01903XKFPY,U019CRLBDND,U01GA9NC51D,UJN97SF2B,U01GTA13RTP,UJ91W1U66,U01DMRX4LHK,UV56U11U3,URK4VNPMX,URK1UN335,U01GNDB01SA 
+[12/17/20, 22:53:38:657] info: [DND] (TJN97SEKH) Will check for changes in DND status again in 5 minutes 
+[12/17/20, 22:53:59:331] info: Store: SET_SYSTEM_IDLE active 
+[12/17/20, 22:53:59:334] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[12/17/20, 22:56:02:476] info: [FOCUS-EVENT] Client window focused 
+[12/17/20, 22:56:02:610] info: [CHECK-UNREADS] (TJN97SEKH) Checking unreads after window became focused 
+[12/17/20, 22:56:02:610] info: [CHECK-UNREADS] (TJN97SEKH) Not marking C01GEGN1LN6 because last_read >= latest && channel is read 
+[12/17/20, 22:56:03:438] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 1101,
+      "y": 388,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[12/17/20, 22:56:03:444] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[12/17/20, 22:56:06:637] info: [FOCUS-EVENT] Client window blurred 
+[12/17/20, 22:58:07:826] info: [FOCUS-EVENT] Client window focused 
+[12/17/20, 22:58:07:898] info: [CHECK-UNREADS] (TJN97SEKH) Checking unreads after window became focused 
+[12/17/20, 22:58:07:898] info: [CHECK-UNREADS] (TJN97SEKH) Not marking C01GEGN1LN6 because last_read >= latest && channel is read 
+[12/17/20, 22:58:08:776] info: Store: UPDATE_SETTINGS {
+  "mainWindowSettings": {
+    "fullScreen": false,
+    "maximized": false,
+    "bounds": {
+      "x": 1101,
+      "y": 388,
+      "width": 1024,
+      "height": 768
+    }
+  }
+} 
+[12/17/20, 22:58:08:781] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["settings"] 
+[12/17/20, 22:58:09:266] info: [UNKNOWN-FETCH-MANAGER] (TJN97SEKH) requesting C01GEGN1LN6-1608263390.087300 (1) 
+[12/17/20, 22:58:09:268] info: [API-Q] (TJN97SEKH) 677b0f75-1608263889.267 subscriptions.thread.get called with reason: fetch-thread-subscriptions 
+[12/17/20, 22:58:09:268] info: [API-Q] (TJN97SEKH) 677b0f75-1608263889.267 subscriptions.thread.get is ENQUEUED 
+[12/17/20, 22:58:09:270] info: [API-Q] (TJN97SEKH) 677b0f75-1608263889.267 subscriptions.thread.get is ACTIVE 
+[12/17/20, 22:58:09:559] info: [API-Q] (TJN97SEKH) 677b0f75-1608263889.267 subscriptions.thread.get is RESOLVED 
+[12/17/20, 22:58:09:561] info: [UNKNOWN-FETCH-MANAGER] (TJN97SEKH) received C01GEGN1LN6-1608263390.087300 (1) 
+[12/17/20, 22:58:10:024] info: [API-Q] (TJN97SEKH) 677b0f75-1608263890.023 users.prefs.set called with reason: prefs-api/setUserPrefByApi 
+[12/17/20, 22:58:10:024] info: [API-Q] (TJN97SEKH) 677b0f75-1608263890.023 users.prefs.set is ENQUEUED 
+[12/17/20, 22:58:10:024] info: [API-Q] (TJN97SEKH) 677b0f75-1608263890.023 users.prefs.set is ACTIVE 
+[12/17/20, 22:58:10:105] info: [API-Q] (TJN97SEKH) 677b0f75-1608263890.023 users.prefs.set is RESOLVED 
+[12/17/20, 22:58:10:832] info: [API-Q] (TJN97SEKH) 677b0f75-1608263890.831 chat.delete called with reason: animateAndDeleteMessageApi 
+[12/17/20, 22:58:10:832] info: [API-Q] (TJN97SEKH) 677b0f75-1608263890.831 chat.delete is ENQUEUED 
+[12/17/20, 22:58:10:832] info: [API-Q] (TJN97SEKH) 677b0f75-1608263890.831 chat.delete is ACTIVE 
+[12/17/20, 22:58:11:019] info: [API-Q] (TJN97SEKH) 677b0f75-1608263890.831 chat.delete is RESOLVED 
+[12/17/20, 22:58:11:109] info: [UNREAD-COUNTS] (TJN97SEKH) Counting unreads in C01GEGN1LN6 because message removed 
+[12/17/20, 22:58:12:685] info: [FOCUS-EVENT] Client window blurred 
+[12/17/20, 22:58:39:663] info: [DND] (TJN97SEKH) Checking for changes in DND status for the following members: U01HGBMFTH6,UJE9B5MND,U0196CQM7D2,U01903XKFPY,U019CRLBDND,U01GA9NC51D,UJN97SF2B,U01GTA13RTP,UJ91W1U66,U01DMRX4LHK,UV56U11U3,URK4VNPMX,URK1UN335,U01GNDB01SA 
+[12/17/20, 22:58:39:670] info: [DND] (TJN97SEKH) Will check for changes in DND status again in 5 minutes 
+[12/17/20, 23:00:39:465] info: Store: SET_SYSTEM_IDLE idle_taskbar 
+[12/17/20, 23:00:39:515] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[12/17/20, 23:01:19:488] info: Store: SET_SYSTEM_IDLE active 
+[12/17/20, 23:01:19:492] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 

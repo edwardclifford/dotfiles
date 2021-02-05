@@ -1,0 +1,6 @@
+2021/01/31-16:10:13.392 c655 Reusing MANIFEST /home/ted/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/01/31-16:10:13.393 c655 Recovering log #81
+2021/01/31-16:10:13.395 c655 Reusing old log /home/ted/.config/discord/Local Storage/leveldb/000081.log 
+2021/01/31-16:11:14.952 ca49 Level-0 table #85: started
+2021/01/31-16:11:14.955 ca49 Level-0 table #85: 16108 bytes OK
+2021/01/31-16:11:14.958 ca49 Delete type=0 #81

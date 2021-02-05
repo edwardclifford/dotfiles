@@ -1,0 +1,112 @@
+be5a452dd999bd920376c85c99f0f384
+::res://::1596256852
+Character.tscn::PackedScene::1596251389::0::1::::<><>::res://Main Scene/KinematicBody2D.gd<>res://Texture Assets/Characters/Character 1.png
+Main_Scene.tscn::PackedScene::1596256646::0::1::::<><>::res://Main Scene/AStar.gd<>res://Main Scene/Selecting.gd<>res://Main Scene/Layers/Tasks.gd<>res://Main Scene/Layers/Layer 0.gd<>res://Texture Assets/Skooten Beaten Boy.png<>res://Texture Assets/Toolbar/3D_pressed.png<>res://Mouse Highlighter.tscn<>res://Main Scene/Button Toggles.gd<>res://Character.tscn<>res://Main Scene/Skooten-Beaten-Boi.gd<>res://Main Scene/Layers/Layer 4.gd<>res://Texture Assets/Toolbar/axe_unpressed.png<>res://Main Scene/Layers/Layer 3.gd<>res://Main Scene/Tilemaps.gd<>res://Texture Assets/Toolbar/pickaxe_unpressed.png<>res://Main Scene/Layers/Layer 2.gd<>res://Texture Assets/Toolbar/Tool Bar.png<>res://Main Scene/Root.gd<>res://Texture Assets/Toolbar/sand_pressed.png<>res://Texture Assets/Toolbar/Stone_brick_unpressed.png<>res://Texture Assets/Toolbar/hoe_unpressed.png<>res://Texture Assets/Toolbar/Cancel_mode_unpressed.png<>res://Texture Assets/TileSet.tres<>res://Main Scene/Layers/Layer 1.gd<>res://Texture Assets/Toolbar/Stone_bricks_pressed.png<>res://Texture Assets/Toolbar/pickaxe_pressed.png<>res://Texture Assets/Toolbar/cancel_mode_pressed.png<>res://Texture Assets/Toolbar/dirt_unpressed.png<>res://Main Scene/Layers/Layer_5.gd<>res://Texture Assets/Toolbar/Moving (unpressed).png<>res://Main Scene/Camera.gd<>res://Texture Assets/Toolbar/Moving (pressed).png<>res://Texture Assets/Toolbar/Sand_unpressed.png<>res://Texture Assets/Highlighter/Highlighter_Tileset.tres<>res://Texture Assets/Toolbar/3D_unpressed.png<>res://Texture Assets/Toolbar/dirt_pressed.png<>res://Texture Assets/Toolbar/axe_pressed.png<>res://Texture Assets/Toolbar/hoe_pressed.png<>res://Main Scene/FPS Meter.gd<>res://Main Scene/Layers/Layer_-4.gd<>res://Main Scene/Layers/Layer_-1.gd<>res://Main Scene/Layers/Layer_-3.gd<>res://Main Scene/Layers/Layer_-2.gd
+Mouse Highlighter.tscn::PackedScene::1596251389::0::1::::<><>::res://Main Scene/highlighter.gd<>res://Texture Assets/Highlighter/Yellow/Highlighter_alt.png
+Renderer.cs::CSharpScript::1596256852::0::1::::<><>::
+::res://Main Scene/::1596256646
+AStar.gd::GDScript::1596251389::0::1::::<>Node2D<>::
+Button Toggles.gd::GDScript::1596251389::0::1::::<>Node2D<>::
+Camera.gd::GDScript::1596251389::0::1::::<>KinematicBody2D<>::
+FPS Meter.gd::GDScript::1596251389::0::1::::<>RichTextLabel<>::
+highlighter.gd::GDScript::1596251389::0::1::::<>Node2D<>::
+KinematicBody2D.gd::GDScript::1596251389::0::1::::<>KinematicBody2D<>::
+Pause.gd::GDScript::1596251389::0::1::::<>Node2D<>::
+Root.gd::GDScript::1596251389::0::1::::<>Node<>::
+Selecting.gd::GDScript::1596251389::0::1::::<>Node2D<>::
+Skooten-Beaten-Boi.gd::GDScript::1596251389::0::1::::<>Sprite<>::
+Tilemaps.gd::GDScript::1596256646::0::1::::<>Node2D<>::
+::res://Main Scene/Layers/::1596251389
+Layer 0.gd::GDScript::1596251389::0::1::::<>TileMap<>::
+Layer 1.gd::GDScript::1596251389::0::1::::<>TileMap<>::
+Layer 2.gd::GDScript::1596251389::0::1::::<>TileMap<>::
+Layer 3.gd::GDScript::1596251389::0::1::::<>TileMap<>::
+Layer 4.gd::GDScript::1596251389::0::1::::<>TileMap<>::
+Layer_5.gd::GDScript::1596251389::0::1::::<>TileMap<>::
+Layer_-1.gd::GDScript::1596251389::0::1::::<>TileMap<>::
+Layer_-2.gd::GDScript::1596251389::0::1::::<>TileMap<>::
+Layer_-3.gd::GDScript::1596251389::0::1::::<>TileMap<>::
+Layer_-4.gd::GDScript::1596251389::0::1::::<>TileMap<>::
+layer_indicator.gd::GDScript::1596251389::0::1::::<>Reference<>::
+Tasks.gd::GDScript::1596251389::0::1::::<>Node2D<>::
+::res://Properties/::1596251389
+AssemblyInfo.cs::CSharpScript::1596251389::0::1::::<><>::
+::res://Texture Assets/::1596256646
+APfkB6p.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Dirt Autotile.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Dirt.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Fog 4.png::StreamTexture::1596251389::1596251389::1::::<><>::
+items.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Leaf copy.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Masonry.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Sand Autotile.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Skooten Beaten Boy.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Stone.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Textures.png::StreamTexture::1596251389::1596251389::1::::<><>::
+TileSet.tres::TileSet::1596256646::0::1::::<><>::res://Texture Assets/Water/Water.tres<>res://Texture Assets/Dirt Autotile.png<>res://Texture Assets/Sand Autotile.png<>res://Texture Assets/Stone.png<>res://Texture Assets/Dirt.png<>res://Texture Assets/Masonry.png<>res://Texture Assets/walls2.png<>res://Texture Assets/items.png
+walls2.png::StreamTexture::1596251389::1596251389::1::::<><>::
+::res://Texture Assets/Characters/::1596251389
+Character 1.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Character 2'.png::StreamTexture::1596251389::1596251389::1::::<><>::
+::res://Texture Assets/Highlighter/::1596251389
+Highlighter_Tileset.tres::TileSet::1596251389::0::1::::<><>::res://Texture Assets/Highlighter/Error/Air_error (2).png<>res://Texture Assets/Highlighter/Air/Air Autotile.png<>res://Texture Assets/Highlighter/Error/Air_error (1).png
+::res://Texture Assets/Highlighter/Air/::1596251389
+Air Autotile.png::StreamTexture::1596251389::1596251389::1::::<><>::
+::res://Texture Assets/Highlighter/Error/::1596251389
+Air_error (1).png::StreamTexture::1596251389::1596251389::1::::<><>::
+Air_error (2).png::StreamTexture::1596251389::1596251389::1::::<><>::
+::res://Texture Assets/Highlighter/Yellow/::1596251389
+box_left.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Box_right.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Highlighter small.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Highlighter.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Highlighter_alt.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Highlighter_Down.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Highlighter_Right.png::StreamTexture::1596251389::1596251389::1::::<><>::
+::res://Texture Assets/Toolbar/::1596251389
+3D_pressed.png::StreamTexture::1596251389::1596251389::1::::<><>::
+3D_unpressed.png::StreamTexture::1596251389::1596251389::1::::<><>::
+axe_pressed.png::StreamTexture::1596251389::1596251389::1::::<><>::
+axe_unpressed.png::StreamTexture::1596251389::1596251389::1::::<><>::
+cancel_mode_pressed.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Cancel_mode_unpressed.png::StreamTexture::1596251389::1596251389::1::::<><>::
+dirt_pressed.png::StreamTexture::1596251389::1596251389::1::::<><>::
+dirt_unpressed.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Highlightors.png::StreamTexture::1596251389::1596251389::1::::<><>::
+hoe_pressed.png::StreamTexture::1596251389::1596251389::1::::<><>::
+hoe_unpressed.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Moving (pressed).png::StreamTexture::1596251389::1596251389::1::::<><>::
+Moving (unpressed).png::StreamTexture::1596251389::1596251389::1::::<><>::
+pickaxe_pressed.png::StreamTexture::1596251389::1596251389::1::::<><>::
+pickaxe_unpressed.png::StreamTexture::1596251389::1596251389::1::::<><>::
+sand_pressed.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Sand_unpressed.png::StreamTexture::1596251389::1596251389::1::::<><>::
+selection_2d.png::StreamTexture::1596251389::1596251389::1::::<><>::
+selection_3d.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Stone_bricks_pressed.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Stone_brick_unpressed.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Tool Bar.png::StreamTexture::1596251389::1596251389::1::::<><>::
+::res://Texture Assets/Water/::1596256646
+Water1.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Water2.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Water3.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Water4.png::StreamTexture::1596251389::1596251389::1::::<><>::
+Water.tres::AnimatedTexture::1596256646::0::1::::<><>::res://Texture Assets/Water/Water3.png<>res://Texture Assets/Water/Water2.png<>res://Texture Assets/Water/Water1.png<>res://Texture Assets/Water/Water4.png
+::res://TitleScreen/::1596251389
+Montserrat-ExtraBold.ttf::DynamicFontData::1596251389::0::1::::<><>::
+title_screen.gd::GDScript::1596251389::0::1::::<>Control<>::
+::res://TitleScreen/Buttons/::1596251389
+ContinueButton.tscn::PackedScene::1596251389::0::1::::<><>::res://TitleScreen/Buttons/MenuButton.tscn
+MenuButton.tscn::PackedScene::1596251389::0::1::::<><>::res://TitleScreen/Montserrat-ExtraBold.ttf
+NewGameButton.tscn::PackedScene::1596251389::0::1::::<><>::res://TitleScreen/Buttons/MenuButton.tscn
+OptionsButton.tscn::PackedScene::1596251389::0::1::::<><>::res://TitleScreen/Buttons/MenuButton.tscn
+::res://TitleScreen/Graphics/::1596251389
+Background.png::StreamTexture::1596251389::1596251389::1::::<><>::
+townslogo.png::StreamTexture::1596251389::1596251389::1::::<><>::
+::res://addons/::1596251389
+::res://addons/smoothing/::1596251389
+smoothing.gd::GDScript::1596251389::0::1::::<>Spatial<>::
+smoothing.png::StreamTexture::1596251389::1596251389::1::::<><>::
+smoothing_2d.gd::GDScript::1596251389::0::1::::<>Node2D<>::
+smoothing_2d.png::StreamTexture::1596251389::1596251389::1::::<><>::
+smoothing_plugin.gd::GDScript::1596251389::0::1::::<>EditorPlugin<>::res://addons/smoothing/smoothing.gd<>res://addons/smoothing/smoothing.png<>res://addons/smoothing/smoothing_2d.gd<>res://addons/smoothing/smoothing_2d.png
